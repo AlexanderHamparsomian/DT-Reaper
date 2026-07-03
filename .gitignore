@@ -1,0 +1,11 @@
+# REAPER temp files
+*.rpp-bak
+*.rpp~
+*.rpp-UNDO
+*.reapeaks
+*.wav.reapeaks
+*.autosave
+
+# OS junk
+.DS_Store
+Thumbs.db
