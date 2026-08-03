@@ -1,0 +1,4169 @@
+<REAPER_PROJECT 0.1 "7.59/win64" 1785482096 0
+  <NOTES 0 2
+  >
+  UNDO_FTS 1785482096
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 5503 8 1 8 1 0 0 0
+  TIMEMODE 0 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 256
+  PANMODE 5
+  CURSOR 0
+  ZOOM 56.23847518040309 0 0
+  VZOOMEX 2 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Audio" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN $track_$itemnum
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 4 0 0 2 1000
+  RENDER_RESAMPLE 3 0 0
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 2624
+  RENDER_DITHER 0
+  RENDER_NORMALIZE 50688 0.063096 1 0.002 0.002 1 1
+  RENDER_TRIM 0.01 0.000178 0.002 0.005
+  <RENDER_METADATA
+    TAG APE:Album $project
+    TAG APE:Artist "Alexander Hamparsomian"
+    TAG "APE:Record Date" $year
+    TAG APE:Title $track
+    TAG APE:Year $year
+    TAG ASWG:artist "Alexander Hamparsomian"
+    TAG ASWG:project $track
+    TAG BWF:OriginationDate $year
+    TAG CAFINFO:album $project
+    TAG CAFINFO:artist "Alexander Hamparsomian"
+    TAG CAFINFO:title $track
+    TAG CAFINFO:year $year
+    TAG CART:Artist "Alexander Hamparsomian"
+    TAG CART:StartDate $year
+    TAG CART:Title $track
+    TAG CUE:DISC_TITLE $track
+    TAG ID3:TALB $project
+    TAG ID3:TDRC $year
+    TAG ID3:TIT2 $track
+    TAG ID3:TPE1 "Alexander Hamparsomian"
+    TAG ID3:TYER $year
+    TAG IFF:AUTH "Alexander Hamparsomian"
+    TAG IFF:NAME $track
+    TAG INFO:IART "Alexander Hamparsomian"
+    TAG INFO:ICRD $year
+    TAG INFO:INAM $track
+    TAG INFO:IPRD $project
+    TAG IXML:PROJECT $track
+    TAG VORBIS:ALBUM $project
+    TAG VORBIS:ARTIST "Alexander Hamparsomian"
+    TAG VORBIS:DATE $year
+    TAG VORBIS:TITLE $track
+    TAG XMP:dc/date $year
+    TAG XMP:dc/title $track
+    TAG XMP:dm/album $project
+    TAG XMP:dm/artist "Alexander Hamparsomian"
+  >
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 48000 1 0
+  <RENDER_CFG
+    ZXZhdxgEAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 800 1600 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {45B9AD18-A77C-4DD2-89CC-243A9C993CB8}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {A36B3CD3-FC0F-4486-A0C7-AE64EA4DF5BA}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  MARKER 1 0 =START 0 0 1 R {3B33AB57-B040-45AB-8B9A-86D2EAAE9857} 0
+  MARKER 2 0.0075201214758 =END 0 0 1 R {1E12A25C-EEEF-4177-A570-51DC78606E17} 0
+  <PROJBAY
+  >
+  <TRACK {44907FFB-FBA2-41BB-B124-043EE6E7207E}
+    NAME amb_tarot_shop
+    PEAKCOL 21798710
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 1
+    REC 0 4128 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {44907FFB-FBA2-41BB-B124-043EE6E7207E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT -2204 712 1259 668
+      SHOW 1
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaLimit (Cockos)" realimit.dll 0 "" 1919708532<565354726C6D747265616C696D697400> ""
+        dG1scu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAMAAAAAEAAAAAABAA
+        AwAAAAEAAAAAAAAAAAAAAMDMzMzMzPC/AgAAAAAAAAAAAAAAAAAAAD+fduMQw8Y/
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {45D4C8F1-4D28-4048-88FF-9BE7333F0E71}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 23
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {0EE40C78-D870-4660-9B13-CFA4D541198F}
+      IID 311
+      NAME "MECHMisc_Rhythmic Clicks Gear Like Rhythms 01_PSE_KCV1_wyBHz_01"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C683500D-B9BF-42BB-80DB-8C2E2A6C413F}
+      <SOURCE EMPTY
+      >
+    >
+  >
+  <TRACK {2ADB5414-3E3B-495C-A3F2-DBF6D4F8150F}
+    NAME "MECHMisc_Rhythmic Clicks Gear Like Rhythms 01_PSE_KCV1_wyBHz"
+    PEAKCOL 21798710
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.21412339328026 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 4128 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2ADB5414-3E3B-495C-A3F2-DBF6D4F8150F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 23
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A10D9EC9-45CB-4F09-8A0A-B6B7AB3CA961}
+      IID 227
+      NAME "MECHMisc_Rhythmic Clicks Gear Like Rhythms 01_PSE_KCV1_wyBHz.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6E11EE45-0A07-4F1A-A012-9934D0442890}
+      <SOURCE WAVE
+        FILE "Audio\MECHMisc_Rhythmic Clicks Gear Like Rhythms 01_PSE_KCV1_wyBHz.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\MECHMisc_Rhythmic Clicks Gear Like Rhythms 01_PSE_KCV1_wyBHz.wav"
+      >
+    >
+  >
+  <TRACK {2580A4AA-24BB-4D41-B388-976BCEA12898}
+    NAME "MECHRtch_Music Box Winding Clock Ratchet Gear_PSE_GEN_tCHTu"
+    PEAKCOL 21798710
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 4128 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2580A4AA-24BB-4D41-B388-976BCEA12898}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 15.93215315895017
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {43D955AF-779A-4FF8-BDF4-304B386D98E5}
+      IID 228
+      NAME "MECHRtch_Music Box Winding Clock Ratchet Gear_PSE_GEN_tCHTu.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7736E54C-4003-4FE8-A338-3C5A9A167933}
+      <SOURCE WAVE
+        FILE "Audio\MECHRtch_Music Box Winding Clock Ratchet Gear_PSE_GEN_tCHTu.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\MECHRtch_Music Box Winding Clock Ratchet Gear_PSE_GEN_tCHTu.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.12774878924978
+      SNAPOFFS 0
+      LENGTH 6.61468858831413
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {71BA83D7-E99A-4418-87C3-4E58BF320949}
+      IID 299
+      NAME "MECHRtch_Music Box Winding Clock Ratchet Gear_PSE_GEN_tCHTu.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.08466667711603
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0E4EDFAF-00E3-46D5-A304-4A7B1C29C2D7}
+      <SOURCE WAVE
+        FILE "Audio\MECHRtch_Music Box Winding Clock Ratchet Gear_PSE_GEN_tCHTu.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\MECHRtch_Music Box Winding Clock Ratchet Gear_PSE_GEN_tCHTu.wav"
+      >
+    >
+  >
+  <TRACK {8B44CA7A-1DA5-4585-A3C6-4E5D8C7E360D}
+    NAME "TOOLHand_Metal Gears Screwdriver Twist Spin_PSE_GEN_3LpVv"
+    PEAKCOL 21798710
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 4128 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8B44CA7A-1DA5-4585-A3C6-4E5D8C7E360D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 7.82533333333333
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 1.1 0 0.15066666666667 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9B8D3F26-6C01-4AF6-BE0C-3BE5FE64392D}
+      IID 229
+      NAME "TOOLHand_Metal Gears Screwdriver Twist Spin_PSE_GEN_3LpVv.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FAA4884B-3F79-4DA4-B1B5-19F8E30FE5D1}
+      <SOURCE WAVE
+        FILE "Audio\TOOLHand_Metal Gears Screwdriver Twist Spin_PSE_GEN_3LpVv.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\TOOLHand_Metal Gears Screwdriver Twist Spin_PSE_GEN_3LpVv.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.67466666666667
+      SNAPOFFS 0
+      LENGTH 7.82533333333333
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1.1 0 0.15066666666667 0 1 0 0
+      FADEOUT 1.1 0 0.11317852209166 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DB397870-BE57-4D68-907A-CBE95E6DEC86}
+      IID 230
+      NAME "TOOLHand_Metal Gears Screwdriver Twist Spin_PSE_GEN_3LpVv.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {06DC4213-4912-490A-ADD6-7F96E87E4680}
+      <SOURCE WAVE
+        FILE "Audio\TOOLHand_Metal Gears Screwdriver Twist Spin_PSE_GEN_3LpVv.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\TOOLHand_Metal Gears Screwdriver Twist Spin_PSE_GEN_3LpVv.wav"
+      >
+    >
+    <ITEM
+      POSITION 15.38682147790834
+      SNAPOFFS 0
+      LENGTH 7.61317852209166
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1.1 0 0.11317852209166 0 1 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ABE8F2F7-4B66-469C-A1C2-5B63D18331E9}
+      IID 298
+      NAME "TOOLHand_Metal Gears Screwdriver Twist Spin_PSE_GEN_3LpVv.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3B8D9F94-73D7-4103-A4AE-CF96C8186045}
+      <SOURCE WAVE
+        FILE "Audio\TOOLHand_Metal Gears Screwdriver Twist Spin_PSE_GEN_3LpVv.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\TOOLHand_Metal Gears Screwdriver Twist Spin_PSE_GEN_3LpVv.wav"
+      >
+    >
+  >
+  <TRACK {399F0A9E-3DD7-4FE1-B009-A6430697CDA6}
+    NAME "DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW"
+    PEAKCOL 21798710
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 4128 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {399F0A9E-3DD7-4FE1-B009-A6430697CDA6}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.86416666666667
+      SNAPOFFS 0
+      LENGTH 0.63583333333333
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {039ED45C-203B-47FB-85E9-2E2E0343F1D7}
+      IID 281
+      NAME "DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.66704166666667
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {50E5C8ED-D94F-4759-BDB7-31E734118F6F}
+      <SOURCE WAVE
+        FILE "Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.5
+      SNAPOFFS 0
+      LENGTH 0.4454375
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5D188A33-17E1-45DE-AE36-A28E1A66C875}
+      IID 285
+      NAME "DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 4.9654375
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1D85045A-847A-44F4-BC2A-62A09EC7E0CA}
+      <SOURCE WAVE
+        FILE "Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.5
+      SNAPOFFS 0
+      LENGTH 0.60925
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BD61FA95-0B8C-4738-85F6-EB258B016FCD}
+      IID 287
+      NAME "DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 7.15860416666671
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {76740C74-9996-4F4F-BE86-432D986C7E27}
+      <SOURCE WAVE
+        FILE "Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.03802083333335
+      SNAPOFFS 0
+      LENGTH 0.46197916666665
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {859EED19-8C91-4941-A16C-EA504D2532EE}
+      IID 289
+      NAME "DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 11.0880833333333
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C7D01011-A9BB-4911-8BD9-2723BA614B3B}
+      <SOURCE WAVE
+        FILE "Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.5
+      SNAPOFFS 0
+      LENGTH 0.35137976168641
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EF405A95-3C4A-4214-8E28-E12687AD6BE6}
+      IID 291
+      NAME "DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 13.40118273831347
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8FF701D7-12DB-4861-82BE-426047AD9390}
+      <SOURCE WAVE
+        FILE "Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.71278272620593
+      SNAPOFFS 0
+      LENGTH 0.28721727379407
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B434EBBC-DEFC-49A6-ADB2-11A62093C428}
+      IID 293
+      NAME "DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 15.72572022620578
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {397A6C20-57CE-4A74-979A-578A1498EB3D}
+      <SOURCE WAVE
+        FILE "Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.75964705862118
+      SNAPOFFS 0
+      LENGTH 0.37618627471215
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5738BC33-A048-4076-AD1E-5786C2452876}
+      IID 295
+      NAME "DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.92668872528785
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7A0EF088-040E-400B-8F7C-B46DBBE449F0}
+      <SOURCE WAVE
+        FILE "Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.74690236235923
+      SNAPOFFS 0
+      LENGTH 0.48465260365323
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0B5C172C-4B6D-4190-BE71-C1ADD5EB7380}
+      IID 296
+      NAME "DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 7.36063128794693
+      PLAYRATE 0.84023664713697 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1370EB78-2E9E-43E6-9FB1-01BAEF95B7CF}
+      <SOURCE WAVE
+        FILE "Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.18451376895051
+      SNAPOFFS 0
+      LENGTH 0.63583333333333
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F392165A-9C55-42CE-9B90-82BF041C1A8A}
+      IID 301
+      NAME "DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.66704166666667
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2BE16DDF-E69B-489F-91FA-42CA3CCB7E1D}
+      <SOURCE WAVE
+        FILE "Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.83812852322017
+      SNAPOFFS 0
+      LENGTH 0.4454375
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B7545F09-95FA-4C6A-8782-2FB0FA82865B}
+      IID 302
+      NAME "DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 4.9654375
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4173D654-1D7A-46F0-B1A4-5AAC441412DF}
+      <SOURCE WAVE
+        FILE "Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.83812852322017
+      SNAPOFFS 0
+      LENGTH 0.60925
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5711F00B-F7F6-428F-9268-62CFD693627E}
+      IID 303
+      NAME "DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 7.15860416666671
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7CA346F3-1DEC-4B5A-9277-C7A968A7CD47}
+      <SOURCE WAVE
+        FILE "Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+    >
+    <ITEM
+      POSITION 15.16842916217081
+      SNAPOFFS 0
+      LENGTH 0.46197916666665
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BEC61865-AA92-481F-87AC-5209B198AF75}
+      IID 304
+      NAME "DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 11.0880833333333
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B3F90121-51C1-43B5-8B68-4ECBB80E625C}
+      <SOURCE WAVE
+        FILE "Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.64862023831359
+      SNAPOFFS 0
+      LENGTH 0.35137976168641
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D6DB09BF-07AC-49E2-BB46-0EDB4653CE24}
+      IID 305
+      NAME "DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 13.40118273831347
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {904C5220-E882-418B-A9F0-EB623986943C}
+      <SOURCE WAVE
+        FILE "Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+    >
+    <ITEM
+      POSITION 17.76363951539199
+      SNAPOFFS 0
+      LENGTH 0.28721727379408
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E42D3E3D-6AA0-40E3-8C8E-C83D87C6575E}
+      IID 306
+      NAME "DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 15.72572022620578
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {78BBAC3A-0209-432C-B1DE-9D92B0ACABC4}
+      <SOURCE WAVE
+        FILE "Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+    >
+    <ITEM
+      POSITION 19.09777558184134
+      SNAPOFFS 0
+      LENGTH 0.37618627471215
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C7E2BAC8-A992-4298-8963-5F1F880971ED}
+      IID 307
+      NAME "DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.92668872528785
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4B649BDE-500A-439D-89B1-D1DDB137CB4C}
+      <SOURCE WAVE
+        FILE "Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+    >
+    <ITEM
+      POSITION 20.39528981396858
+      SNAPOFFS 0
+      LENGTH 0.48465260365322
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5CC11270-CBD0-4122-8E67-1FCAD51CFD99}
+      IID 308
+      NAME "DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 7.36063128794693
+      PLAYRATE 0.84023664713697 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {90CBB6E9-A4E8-4750-B6E8-F0CFC23A27D8}
+      <SOURCE WAVE
+        FILE "Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+    >
+    <ITEM
+      POSITION 21.58664501670258
+      SNAPOFFS 0
+      LENGTH 0.46197916666665
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7DC60A53-5428-42ED-8175-7995EA8090A1}
+      IID 309
+      NAME "DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 11.0880833333333
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99E3148E-2445-46AC-8700-BB382A89C848}
+      <SOURCE WAVE
+        FILE "Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+    >
+    <ITEM
+      POSITION 22.70687453569126
+      SNAPOFFS 0
+      LENGTH 0.28721727379409
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2ACD0CD0-2EAE-4658-811E-BAADF92C64D5}
+      IID 310
+      NAME "DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 15.72572022620578
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {39971AC6-8B23-487D-956B-2B39100ABA55}
+      <SOURCE WAVE
+        FILE "Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\DOORCab_Mailbox Key In and Out of Lock_PSE_ODY2_xgZkW.wav"
+      >
+    >
+  >
+  <TRACK {1D336A81-6E18-4AF6-99F8-8FDDA43A177F}
+    NAME amb_tarot_cave
+    PEAKCOL 28165246
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 3.98107170553497 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 4128 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1D336A81-6E18-4AF6-99F8-8FDDA43A177F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 39.49965625
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {492969C7-E770-4259-B751-6B34E15457AC}
+      IID 68
+      NAME "WINDInt_Interior Winds Low Moaning Cave_PSE_CW_AxTqU_01"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {22DAF2D4-9ED9-47E6-9A4E-024A5C80DD6C}
+      <SOURCE EMPTY
+      >
+    >
+  >
+  <TRACK {164D34CA-81EF-4530-A864-BCE2805F8880}
+    NAME ""
+    PEAKCOL 28165246
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1.45054756857827 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 4128 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {164D34CA-81EF-4530-A864-BCE2805F8880}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 24.71515625
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 1.1 0 0.46352083333333 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {81DA8B6E-6649-45B0-BAFB-00DDCDC19987}
+      IID 2
+      NAME "WINDInt_Interior Winds Low Moaning Cave_PSE_CW_AxTqU.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 22.90094791666667
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E09E37B9-194B-4C1A-8717-80F25B9E1D9B}
+      <SOURCE WAVE
+        FILE "Audio\WINDInt_Interior Winds Low Moaning Cave_PSE_CW_AxTqU.wav"
+      >
+    >
+    <ITEM
+      POSITION 24.25163541666667
+      SNAPOFFS 0
+      LENGTH 15.24802083333334
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1.1 0 0.46352083333333 0 1 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CF7699A3-6D6E-4A7D-8D2C-F9AA91E2D829}
+      IID 2
+      NAME "WINDInt_Interior Winds Low Moaning Cave_PSE_CW_AxTqU.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 7.65292708333333
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3D5457C9-54C7-4F99-8E78-3245DE1C40F1}
+      <SOURCE WAVE
+        FILE "Audio\WINDInt_Interior Winds Low Moaning Cave_PSE_CW_AxTqU.wav"
+      >
+    >
+  >
+  <TRACK {A9EC78FA-6A53-416F-8417-01D7A450A8A1}
+    NAME "WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9"
+    PEAKCOL 28165246
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.05691335171671 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 4128 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A9EC78FA-6A53-416F-8417-01D7A450A8A1}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT -2536 807 1011 785
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST3: Convology XT (Impulse Record)" ConvologyXT_64.vst3 0 "" 1004984845{56535443565854636F6E766F6C6F6779} ""
+        DdrmO+5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAUAcAAAEAAAD//wAA
+        QAcAAAEAAABWc3RXAAAACAAAAAEAAAAAQ2NuSwAAByhGQkNoAAAAAkNWWFQAASIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGkFZDMiFoBgAA
+        PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4gPHByZXNldCBwcmVzZXRQYXRoPSJGYWN0b3J5IExpYnJhcnkvUmVhbCBTcGFjZXMvQ2F2ZXJuIDIi
+        Pjx2ZXJzaW9uPjEzNDwvdmVyc2lvbj48cGFyYW1zPjxwYXJhbSBpbmRleD0iMCIgdmFsdWU9IjEuMCIvPjxwYXJhbSBpbmRleD0iMSIgdmFsdWU9IjAuNjExOTk5OTg4
+        NTU1OTA4MiIvPjxwYXJhbSBpbmRleD0iMiIgdmFsdWU9IjAuMCIvPjxwYXJhbSBpbmRleD0iMyIgdmFsdWU9IjAuMCIvPjxwYXJhbSBpbmRleD0iNCIgdmFsdWU9IjAu
+        MCIvPjxwYXJhbSBpbmRleD0iNSIgdmFsdWU9IjEuMCIvPjxwYXJhbSBpbmRleD0iNiIgdmFsdWU9IjAuNSIvPjxwYXJhbSBpbmRleD0iNyIgdmFsdWU9IjAuMCIvPjxw
+        YXJhbSBpbmRleD0iOCIgdmFsdWU9IjAuNSIvPjxwYXJhbSBpbmRleD0iOSIgdmFsdWU9IjEuMzY1NTQ4NDkxNDc3OTY2Ii8+PHBhcmFtIGluZGV4PSIxMCIgdmFsdWU9
+        IjEuMCIvPjxwYXJhbSBpbmRleD0iMTEiIHZhbHVlPSIwLjAiLz48cGFyYW0gaW5kZXg9IjEyIiB2YWx1ZT0iMC4wIi8+PHBhcmFtIGluZGV4PSIxMyIgdmFsdWU9IjIw
+        LjAiLz48cGFyYW0gaW5kZXg9IjE0IiB2YWx1ZT0iMC4wIi8+PHBhcmFtIGluZGV4PSIxNSIgdmFsdWU9IjAuMCIvPjxwYXJhbSBpbmRleD0iMTYiIHZhbHVlPSIxLjAi
+        Lz48cGFyYW0gaW5kZXg9IjE3IiB2YWx1ZT0iMC4wIi8+PHBhcmFtIGluZGV4PSIxOCIgdmFsdWU9IjEuMCIvPjxwYXJhbSBpbmRleD0iMTkiIHZhbHVlPSIxLjAiLz48
+        cGFyYW0gaW5kZXg9IjIwIiB2YWx1ZT0iMS4wIi8+PHBhcmFtIGluZGV4PSIyMSIgdmFsdWU9IjEuMCIvPjxwYXJhbSBpbmRleD0iMjIiIHZhbHVlPSIxLjAiLz48cGFy
+        YW0gaW5kZXg9IjIzIiB2YWx1ZT0iMS4wIi8+PHBhcmFtIGluZGV4PSIyNCIgdmFsdWU9IjEuMCIvPjxwYXJhbSBpbmRleD0iMjUiIHZhbHVlPSIxLjAiLz48cGFyYW0g
+        aW5kZXg9IjI2IiB2YWx1ZT0iMS4wIi8+PHBhcmFtIGluZGV4PSIyNyIgdmFsdWU9IjEuMCIvPjxwYXJhbSBpbmRleD0iMjgiIHZhbHVlPSIxLjAiLz48cGFyYW0gaW5k
+        ZXg9IjI5IiB2YWx1ZT0iMS4wIi8+PHBhcmFtIGluZGV4PSIzMCIgdmFsdWU9IjAuMCIvPjxwYXJhbSBpbmRleD0iMzEiIHZhbHVlPSIwLjAiLz48cGFyYW0gaW5kZXg9
+        IjMyIiB2YWx1ZT0iMC4wIi8+PHBhcmFtIGluZGV4PSIzMyIgdmFsdWU9IjAuMCIvPjxwYXJhbSBpbmRleD0iMzQiIHZhbHVlPSIwLjAiLz48cGFyYW0gaW5kZXg9IjM1
+        IiB2YWx1ZT0iMC4wIi8+PHBhcmFtIGluZGV4PSIzNiIgdmFsdWU9IjAuMCIvPjxwYXJhbSBpbmRleD0iMzciIHZhbHVlPSIwLjAiLz48cGFyYW0gaW5kZXg9IjM4IiB2
+        YWx1ZT0iMC4wIi8+PHBhcmFtIGluZGV4PSIzOSIgdmFsdWU9IjAuMCIvPjxwYXJhbSBpbmRleD0iNDAiIHZhbHVlPSIwLjAiLz48cGFyYW0gaW5kZXg9IjQxIiB2YWx1
+        ZT0iMC4wMDEyNTEyNTg4ODczNTA1NTkiLz48cGFyYW0gaW5kZXg9IjQyIiB2YWx1ZT0iMC4wIi8+PHBhcmFtIGluZGV4PSI0MyIgdmFsdWU9IjAuMCIvPjwvcGFyYW1z
+        PjxmaWxlPkZhY3RvcnkgTGlicmFyeS9SZWFsIFNwYWNlcy9DYXZlcm4gMi5jbnZ4d2F2PC9maWxlPjxhdXRvbWF0aW9uVGFibGUgYXV0b21hdGVJUk9ubHk9IjAiLz48
+        L3ByZXNldD4AAAAAAAAAAAAAAAAAAAAAAEpVQ0VQcml2YXRlRGF0YQAAAAAAAAAA
+        AAAAAAAA
+      >
+      PRESETNAME Default
+      FLOATPOS 0 0 0 0
+      FXID {CFE133F9-B401-4F85-80C9-19881FD90F27}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 1
+      SNAPOFFS 0
+      LENGTH 0.2
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BE06F597-0D8F-4020-BFF6-3E10E26ADED1}
+      IID 55
+      NAME "WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      VOLPAN 0.588844 0 1 -1
+      SOFFS 47.64802083333021
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {64DDE4C0-24EA-426E-92A9-199A8CA3B2B0}
+      <SOURCE WAVE
+        FILE "Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.5
+      SNAPOFFS 0
+      LENGTH 0.2
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DA20B19B-12D3-49C7-B3F0-B093ADACCA6A}
+      IID 9
+      NAME "WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 3.15170833333335
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {902259B4-37F1-4E07-9993-82938AC1DFE9}
+      <SOURCE WAVE
+        FILE "Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 0.2
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F50F574A-BB38-47AD-B3F0-D93B787FD326}
+      IID 17
+      NAME "WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 11.8194166666668
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {813A1E6B-95DE-4662-83B1-297D091EDC86}
+      <SOURCE WAVE
+        FILE "Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 0.2
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A515EF98-01A2-45CE-9E32-92FB3B922589}
+      IID 11
+      NAME "WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 6.45154166666663
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AA0A71D3-933D-49AF-8524-2846A1CB93E4}
+      <SOURCE WAVE
+        FILE "Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+    >
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 0.2
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {80F718FE-0773-46A0-8B15-5B97388C8C01}
+      IID 19
+      NAME "WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 14.62348958333362
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {373E4404-1370-4BE3-A70D-EBBEAE3F0E23}
+      <SOURCE WAVE
+        FILE "Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+    >
+    <ITEM
+      POSITION 15
+      SNAPOFFS 0
+      LENGTH 0.2
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {50006AF3-267C-46E9-AACE-FF51F04FB171}
+      IID 23
+      NAME "WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 18.27906250000012
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B06BB072-932E-4D87-8D6B-A7CFC0E0F105}
+      <SOURCE WAVE
+        FILE "Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+    >
+    <ITEM
+      POSITION 18.5
+      SNAPOFFS 0
+      LENGTH 0.2
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6E5993C1-4B6A-4CBF-96A5-51E2C893D08E}
+      IID 27
+      NAME "WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 21.12523958333314
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CA1C58DF-A311-43A3-8143-E352AAEE7CD4}
+      <SOURCE WAVE
+        FILE "Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+    >
+    <ITEM
+      POSITION 21.5
+      SNAPOFFS 0
+      LENGTH 0.2
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0FAF7DB2-DEF0-4DB9-BE80-394CC9A8CE95}
+      IID 7
+      NAME "WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      VOLPAN 0.389045 0 1 -1
+      SOFFS 0.94022916666667
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A9604376-39E8-4575-8BCC-311CE22AFC70}
+      <SOURCE WAVE
+        FILE "Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+    >
+    <ITEM
+      POSITION 24.37092708333278
+      SNAPOFFS 0
+      LENGTH 0.2
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B49B2606-81F0-4485-85F3-54BF2C99D7AB}
+      IID 29
+      NAME "WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 24.37092708333278
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1FCDA172-AD15-43F5-AB4A-0A562C3E3A12}
+      <SOURCE WAVE
+        FILE "Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+    >
+    <ITEM
+      POSITION 27.5
+      SNAPOFFS 0
+      LENGTH 0.2
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8066AE22-8C1D-4E30-9CFD-6FD4D8825726}
+      IID 31
+      NAME "WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 26.77933333333251
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {895FF0E8-7E4E-4C55-877B-58497BE9A82F}
+      <SOURCE WAVE
+        FILE "Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+    >
+    <ITEM
+      POSITION 30.5
+      SNAPOFFS 0
+      LENGTH 0.2
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {44319683-7930-4FA3-8FA3-B46556D592B3}
+      IID 37
+      NAME "WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 33.22462499999848
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F951D487-4A99-46D4-8871-5A5F88438D85}
+      <SOURCE WAVE
+        FILE "Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+    >
+    <ITEM
+      POSITION 33.5
+      SNAPOFFS 0
+      LENGTH 0.2
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E93C3E95-A5A2-4CCA-855F-F44366199B26}
+      IID 39
+      NAME "WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 35.92868749999818
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {753FE9EA-D842-49C9-B707-074EAB604641}
+      <SOURCE WAVE
+        FILE "Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+    >
+    <ITEM
+      POSITION 37
+      SNAPOFFS 0
+      LENGTH 0.2
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3064E372-479B-42CA-8C36-388BA65D9C9E}
+      IID 51
+      NAME "WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 43.94463541666396
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F2098829-0534-4567-865C-2B4598DBC7BC}
+      <SOURCE WAVE
+        FILE "Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+    >
+    <ITEM
+      POSITION 45.51773958333045
+      SNAPOFFS 0
+      LENGTH 0.2
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AD6530A0-4333-464A-8BF3-CF22DE0A343D}
+      IID 53
+      NAME "WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 45.51773958333045
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {63ECCBC5-3B3D-48F1-8CDF-C13A494CF8A8}
+      <SOURCE WAVE
+        FILE "Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+    >
+    <ITEM
+      POSITION 48.73613541666343
+      SNAPOFFS 0
+      LENGTH 0.2
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8E7239CD-3C85-4A98-85B9-0B273EE1470B}
+      IID 57
+      NAME "WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 48.73613541666343
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D36C25A8-3D92-4A91-BD22-D5912FA94DE1}
+      <SOURCE WAVE
+        FILE "Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+    >
+    <ITEM
+      POSITION 49.95784374999663
+      SNAPOFFS 0
+      LENGTH 0.2
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E82FB179-DB61-4198-82D6-B0B4F30C2A80}
+      IID 59
+      NAME "WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 49.95784374999663
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D24C3AE7-2C8F-4EB2-8D7E-A795E3F63059}
+      <SOURCE WAVE
+        FILE "Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+    >
+    <ITEM
+      POSITION 51.02010416666318
+      SNAPOFFS 0
+      LENGTH 0.2
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {41284885-3497-422F-868E-8D701874ED2E}
+      IID 61
+      NAME "WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 51.02010416666318
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1F30D307-2689-4A28-BC9D-F0AB49C9A03E}
+      <SOURCE WAVE
+        FILE "Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+    >
+    <ITEM
+      POSITION 52.47042708332969
+      SNAPOFFS 0
+      LENGTH 0.2
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {40BEC9B2-0369-47C0-AA3B-8AB4811FDEF8}
+      IID 63
+      NAME "WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 52.47042708332969
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {10EE718B-DBD8-47CB-B28D-F8B8A29B2302}
+      <SOURCE WAVE
+        FILE "Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+    >
+    <ITEM
+      POSITION 52.84628124999631
+      SNAPOFFS 0
+      LENGTH 0.2
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0C7F145C-13DB-49A8-B649-9FF5B92EDA5B}
+      IID 65
+      NAME "WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 52.84628124999631
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E5F4033B-4F1A-4C5F-9793-D397ACB42E20}
+      <SOURCE WAVE
+        FILE "Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\WATRDrip_Drips into Water Single Drips Steady Slow_PSE_SMV1_rh0l9.wav"
+      >
+    >
+  >
+  <TRACK {07CCC337-87C5-4B26-B5B2-3EFE1A405406}
+    NAME ""
+    PEAKCOL 28165246
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.17341828064739 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 4128 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {07CCC337-87C5-4B26-B5B2-3EFE1A405406}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT -3460 674 942 676
+      SHOW 0
+      LASTSEL 2
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST3: Convology XT (Impulse Record)" ConvologyXT_64.vst3 0 "" 1004984845{56535443565854636F6E766F6C6F6779} ""
+        DdrmO+5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAXAcAAAEAAAD//wAA
+        TAcAAAEAAABWc3RXAAAACAAAAAEAAAAAQ2NuSwAABzRGQkNoAAAAAkNWWFQAASIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGnFZDMiF0BgAA
+        PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4gPHByZXNldCBwcmVzZXRQYXRoPSJGYWN0b3J5IExpYnJhcnkvUmVhbCBTcGFjZXMvQ2F2ZXJuIDIi
+        Pjx2ZXJzaW9uPjEzNDwvdmVyc2lvbj48cGFyYW1zPjxwYXJhbSBpbmRleD0iMCIgdmFsdWU9IjEuMCIvPjxwYXJhbSBpbmRleD0iMSIgdmFsdWU9IjAuNDAwMDAwMDA1
+        OTYwNDY0NSIvPjxwYXJhbSBpbmRleD0iMiIgdmFsdWU9IjAuMCIvPjxwYXJhbSBpbmRleD0iMyIgdmFsdWU9IjAuMCIvPjxwYXJhbSBpbmRleD0iNCIgdmFsdWU9IjAu
+        MCIvPjxwYXJhbSBpbmRleD0iNSIgdmFsdWU9IjEuMCIvPjxwYXJhbSBpbmRleD0iNiIgdmFsdWU9IjAuNSIvPjxwYXJhbSBpbmRleD0iNyIgdmFsdWU9IjAuMCIvPjxw
+        YXJhbSBpbmRleD0iOCIgdmFsdWU9IjAuNSIvPjxwYXJhbSBpbmRleD0iOSIgdmFsdWU9IjEuMjQwNzIxMjI1NzM4NTI1Ii8+PHBhcmFtIGluZGV4PSIxMCIgdmFsdWU9
+        IjEuMjYyMjUxOTczMTUyMTYxIi8+PHBhcmFtIGluZGV4PSIxMSIgdmFsdWU9IjAuMCIvPjxwYXJhbSBpbmRleD0iMTIiIHZhbHVlPSIwLjAiLz48cGFyYW0gaW5kZXg9
+        IjEzIiB2YWx1ZT0iMjAuMCIvPjxwYXJhbSBpbmRleD0iMTQiIHZhbHVlPSIwLjAiLz48cGFyYW0gaW5kZXg9IjE1IiB2YWx1ZT0iMC4wIi8+PHBhcmFtIGluZGV4PSIx
+        NiIgdmFsdWU9IjEuMCIvPjxwYXJhbSBpbmRleD0iMTciIHZhbHVlPSIwLjAiLz48cGFyYW0gaW5kZXg9IjE4IiB2YWx1ZT0iMS4wIi8+PHBhcmFtIGluZGV4PSIxOSIg
+        dmFsdWU9IjEuMCIvPjxwYXJhbSBpbmRleD0iMjAiIHZhbHVlPSIxLjAiLz48cGFyYW0gaW5kZXg9IjIxIiB2YWx1ZT0iMS4wIi8+PHBhcmFtIGluZGV4PSIyMiIgdmFs
+        dWU9IjEuMCIvPjxwYXJhbSBpbmRleD0iMjMiIHZhbHVlPSIxLjAiLz48cGFyYW0gaW5kZXg9IjI0IiB2YWx1ZT0iMS4wIi8+PHBhcmFtIGluZGV4PSIyNSIgdmFsdWU9
+        IjEuMCIvPjxwYXJhbSBpbmRleD0iMjYiIHZhbHVlPSIxLjAiLz48cGFyYW0gaW5kZXg9IjI3IiB2YWx1ZT0iMS4wIi8+PHBhcmFtIGluZGV4PSIyOCIgdmFsdWU9IjEu
+        MCIvPjxwYXJhbSBpbmRleD0iMjkiIHZhbHVlPSIxLjAiLz48cGFyYW0gaW5kZXg9IjMwIiB2YWx1ZT0iMC4wIi8+PHBhcmFtIGluZGV4PSIzMSIgdmFsdWU9IjAuMCIv
+        PjxwYXJhbSBpbmRleD0iMzIiIHZhbHVlPSIwLjAiLz48cGFyYW0gaW5kZXg9IjMzIiB2YWx1ZT0iMC4wIi8+PHBhcmFtIGluZGV4PSIzNCIgdmFsdWU9IjAuMCIvPjxw
+        YXJhbSBpbmRleD0iMzUiIHZhbHVlPSIwLjAiLz48cGFyYW0gaW5kZXg9IjM2IiB2YWx1ZT0iMC4wIi8+PHBhcmFtIGluZGV4PSIzNyIgdmFsdWU9IjAuMCIvPjxwYXJh
+        bSBpbmRleD0iMzgiIHZhbHVlPSIwLjAiLz48cGFyYW0gaW5kZXg9IjM5IiB2YWx1ZT0iMC4wIi8+PHBhcmFtIGluZGV4PSI0MCIgdmFsdWU9IjAuMCIvPjxwYXJhbSBp
+        bmRleD0iNDEiIHZhbHVlPSIwLjU2MzU4NTM0MDk3NjcxNTEiLz48cGFyYW0gaW5kZXg9IjQyIiB2YWx1ZT0iMC4wIi8+PHBhcmFtIGluZGV4PSI0MyIgdmFsdWU9IjAu
+        MCIvPjwvcGFyYW1zPjxmaWxlPkZhY3RvcnkgTGlicmFyeS9SZWFsIFNwYWNlcy9DYXZlcm4gMi5jbnZ4d2F2PC9maWxlPjxhdXRvbWF0aW9uVGFibGUgYXV0b21hdGVJ
+        Uk9ubHk9IjAiLz48L3ByZXNldD4AAAAAAAAAAAAAAAAAAAAAAEpVQ0VQcml2YXRlRGF0YQAAAAAAAAAA
+        AAAAAAAA
+      >
+      PRESETNAME Default
+      FLOATPOS 0 0 0 0
+      FXID {EB746FC5-8318-4CCE-987D-C738091AA021}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST3: kHs Reverb (Kilohearts)" "kHs Reverb.vst3" 0 "" 1304368705{57C6C07F0065421600BF482A003AFA7A} ""
+        QRa/Te5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAUgIAAAEAAAD//wAA
+        QgIAAAEAAAABAAAAOgIAAFBLAwQUAAgICADcSf9cAAAAAAAAAAAAAAAACgAAAHN0YXRlLmpzb27t2zlOLDEQBuC4+xTIeiF6Yk3IyEg4AUKjmnZNY+Gl5WWGRdwd292e
+        BTjCn4zk31Xlb9yxP/tOGI4k7s4++64TlOKL83kl7jW/kZXszx7ITOSDM4qs6Luv89yzZR+Us61t47yhWNouxXkJJp1GZWtwcXM7Z0G+luDqpg2ZPAeObcZE8aXsz8WW
+        DB9WLFVkWdbRJ279xknWrZ3J6/dScfH/qh2oPvjIJPP/UHZcDHPEA9Wm67beUNIxLEM7odXANvBKu6HiN6QD19p8oqW1PlLN6b/4PtVT97Pm3CirTAbJn2NSHb9b5dsY
+        VLnUvBrVsNo5/0reJfurI38NtnE15s2p/uN8IfVGOjFqt86Ve79N5tHJpCnmwWEuXjwn8VPJutqT9yL5cf4wdWqJgkt+4JOITMbFo5k5G5Lf8mn05zUdX9RBIurWcgAw
+        wAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDA/Ikpv8+17FDU3tf17cHdTsn52eLyyNCot3ru/hHi
+        vtXzlv26vF3sv/pvUEsHCNJY2rG0AQAAeDkAAFBLAQIAABQACAgIANxJ/1zSWNqxtAEAAHg5AAAKAAAAAAAAAAAAAAAAAAAAAABzdGF0ZS5qc29uUEsFBgAAAAABAAEA
+        OAAAAOwBAAAAAAAAAAAAAAAA
+        AAAAAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {3EAC2FE7-48AB-4F59-AA44-D0BCAB78149F}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAzQAAAAEAAAAAABAA
+        IQAAAAUAAAAAAAAAAQAAAEPlXNzjm2lAj+21oPfGsD7NzMzMzMz6PwEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAANbXQ9ymC7dAQCfyAHC3
+        5D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D+amZmZmZnpPwEEAAAAAAAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAA
+        APsCAAD8AQAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {538B2EFA-1705-45A3-9784-9CD252345A0C}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 1.5
+      SNAPOFFS 0
+      LENGTH 34.05603367429142
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 2.24735247596846 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8E0A42EA-BBDB-4F10-9E95-6C9FBF399B6E}
+      IID 67
+      NAME "CREAEthr_Breaths Creepy Ghostly Wind_PSE_GEN_Rtbi2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D6A6C511-981E-4F59-8873-96BC084AE309}
+      <SOURCE WAVE
+        FILE "Audio\CREAEthr_Breaths Creepy Ghostly Wind_PSE_GEN_Rtbi2.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\CREAEthr_Breaths Creepy Ghostly Wind_PSE_GEN_Rtbi2.wav"
+      >
+    >
+  >
+  <TRACK {8644CA96-8CCC-40D5-9947-55C19241C98A}
+    NAME amb_tarot_mine
+    PEAKCOL 33502857
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 3.98107170553497 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 4128 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8644CA96-8CCC-40D5-9947-55C19241C98A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 39
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {80DA5E71-CD0A-454C-B520-03AE6EAB598D}
+      IID 68
+      NAME "WINDInt_Interior Winds Low Moaning Cave_PSE_CW_AxTqU_01"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {58C228EE-FE72-47E8-A080-DEED297E87A8}
+      <SOURCE EMPTY
+      >
+    >
+  >
+  <TRACK {C862B629-0EEF-4994-A38C-7A8A52493A0A}
+    NAME "METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A"
+    PEAKCOL 31420563
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    WIDTH 0
+    VOLPAN 0.29129205255396 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 4128 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C862B629-0EEF-4994-A38C-7A8A52493A0A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT -3419 49 981 624
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST3: Convology XT (Impulse Record)" ConvologyXT_64.vst3 0 "" 1004984845{56535443565854636F6E766F6C6F6779} ""
+        DdrmO+5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAXQcAAAEAAAD//wAA
+        TQcAAAEAAABWc3RXAAAACAAAAAEAAAAAQ2NuSwAABzVGQkNoAAAAAkNWWFQAASIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGnVZDMiF1BgAA
+        PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4gPHByZXNldCBwcmVzZXRQYXRoPSJGYWN0b3J5IExpYnJhcnkvUmVhbCBTcGFjZXMvQ2F2ZXJuIDIi
+        Pjx2ZXJzaW9uPjEzNDwvdmVyc2lvbj48cGFyYW1zPjxwYXJhbSBpbmRleD0iMCIgdmFsdWU9IjEuMCIvPjxwYXJhbSBpbmRleD0iMSIgdmFsdWU9IjAuNTgzOTk5OTkx
+        NDE2OTMxMiIvPjxwYXJhbSBpbmRleD0iMiIgdmFsdWU9IjAuMCIvPjxwYXJhbSBpbmRleD0iMyIgdmFsdWU9IjAuMCIvPjxwYXJhbSBpbmRleD0iNCIgdmFsdWU9IjAu
+        MCIvPjxwYXJhbSBpbmRleD0iNSIgdmFsdWU9IjAuMCIvPjxwYXJhbSBpbmRleD0iNiIgdmFsdWU9IjAuNzA4MDAwMDA0MjkxNTM0NCIvPjxwYXJhbSBpbmRleD0iNyIg
+        dmFsdWU9IjAuMCIvPjxwYXJhbSBpbmRleD0iOCIgdmFsdWU9IjAuNSIvPjxwYXJhbSBpbmRleD0iOSIgdmFsdWU9IjEuMTAwNjA5MDY0MTAyMTczIi8+PHBhcmFtIGlu
+        ZGV4PSIxMCIgdmFsdWU9IjEuMCIvPjxwYXJhbSBpbmRleD0iMTEiIHZhbHVlPSIwLjAiLz48cGFyYW0gaW5kZXg9IjEyIiB2YWx1ZT0iMC4wIi8+PHBhcmFtIGluZGV4
+        PSIxMyIgdmFsdWU9IjIwLjAiLz48cGFyYW0gaW5kZXg9IjE0IiB2YWx1ZT0iMC4wIi8+PHBhcmFtIGluZGV4PSIxNSIgdmFsdWU9IjAuMCIvPjxwYXJhbSBpbmRleD0i
+        MTYiIHZhbHVlPSIxLjAiLz48cGFyYW0gaW5kZXg9IjE3IiB2YWx1ZT0iMC4wIi8+PHBhcmFtIGluZGV4PSIxOCIgdmFsdWU9IjEuMCIvPjxwYXJhbSBpbmRleD0iMTki
+        IHZhbHVlPSIxLjAiLz48cGFyYW0gaW5kZXg9IjIwIiB2YWx1ZT0iMS4wIi8+PHBhcmFtIGluZGV4PSIyMSIgdmFsdWU9IjEuMCIvPjxwYXJhbSBpbmRleD0iMjIiIHZh
+        bHVlPSIxLjAiLz48cGFyYW0gaW5kZXg9IjIzIiB2YWx1ZT0iMS4wIi8+PHBhcmFtIGluZGV4PSIyNCIgdmFsdWU9IjEuMCIvPjxwYXJhbSBpbmRleD0iMjUiIHZhbHVl
+        PSIxLjAiLz48cGFyYW0gaW5kZXg9IjI2IiB2YWx1ZT0iMS4wIi8+PHBhcmFtIGluZGV4PSIyNyIgdmFsdWU9IjEuMCIvPjxwYXJhbSBpbmRleD0iMjgiIHZhbHVlPSIx
+        LjAiLz48cGFyYW0gaW5kZXg9IjI5IiB2YWx1ZT0iMS4wIi8+PHBhcmFtIGluZGV4PSIzMCIgdmFsdWU9IjAuMCIvPjxwYXJhbSBpbmRleD0iMzEiIHZhbHVlPSIwLjAi
+        Lz48cGFyYW0gaW5kZXg9IjMyIiB2YWx1ZT0iMC4wIi8+PHBhcmFtIGluZGV4PSIzMyIgdmFsdWU9IjAuMCIvPjxwYXJhbSBpbmRleD0iMzQiIHZhbHVlPSIwLjAiLz48
+        cGFyYW0gaW5kZXg9IjM1IiB2YWx1ZT0iMC4wIi8+PHBhcmFtIGluZGV4PSIzNiIgdmFsdWU9IjAuMCIvPjxwYXJhbSBpbmRleD0iMzciIHZhbHVlPSIwLjAiLz48cGFy
+        YW0gaW5kZXg9IjM4IiB2YWx1ZT0iMC4wIi8+PHBhcmFtIGluZGV4PSIzOSIgdmFsdWU9IjAuMCIvPjxwYXJhbSBpbmRleD0iNDAiIHZhbHVlPSIwLjAiLz48cGFyYW0g
+        aW5kZXg9IjQxIiB2YWx1ZT0iMC4xOTMzMDQyNDA3MDM1ODI4Ii8+PHBhcmFtIGluZGV4PSI0MiIgdmFsdWU9IjAuMCIvPjxwYXJhbSBpbmRleD0iNDMiIHZhbHVlPSIw
+        LjAiLz48L3BhcmFtcz48ZmlsZT5GYWN0b3J5IExpYnJhcnkvUmVhbCBTcGFjZXMvQ2F2ZXJuIDIuY252eHdhdjwvZmlsZT48YXV0b21hdGlvblRhYmxlIGF1dG9tYXRl
+        SVJPbmx5PSIwIi8+PC9wcmVzZXQ+AAAAAAAAAAAAAAAAAAAAAABKVUNFUHJpdmF0ZURhdGEAAAAAAAAAAA==
+        AAAAAAAA
+      >
+      PRESETNAME Default
+      FLOATPOS 0 0 0 0
+      FXID {D29DDFC6-8C59-4963-9E34-FB83F2A42DA1}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 1.5
+      SNAPOFFS 0
+      LENGTH 1.49796875007451
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8B919F20-82AC-40C0-917E-F915F68BFF27}
+      IID 83
+      NAME "METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00203125
+      PLAYRATE 0.99999999995026 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A7A1446F-3D5A-4E80-B3E0-F7691E2A264F}
+      <SOURCE WAVE
+        FILE "Audio\METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.5
+      SNAPOFFS 0
+      LENGTH 1.61533333361149
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C49CD9EE-4FD0-4B36-AE3E-B55C3B7DF1D7}
+      IID 85
+      NAME "METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.50201041666667
+      PLAYRATE 0.99999999982781 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {03894705-9182-4E9E-8748-1D48AEF10B88}
+      <SOURCE WAVE
+        FILE "Audio\METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.5
+      SNAPOFFS 0
+      LENGTH 1.58835416659713
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3FDB3576-C018-4CBB-B7D0-681FAB133716}
+      IID 87
+      NAME "METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 5.0019375
+      PLAYRATE 1.00000000004377 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BAA2973B-065F-48A2-94A1-3D20FE2D891D}
+      <SOURCE WAVE
+        FILE "Audio\METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.5
+      SNAPOFFS 0
+      LENGTH 1.48301041685045
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9453D246-0B87-4675-BFCA-08E4211F5CD6}
+      IID 89
+      NAME "METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 7.50203125
+      PLAYRATE 0.99999999987607 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {02561939-16D0-4DBB-9C5C-72E87CE8D89B}
+      <SOURCE WAVE
+        FILE "Audio\METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.5
+      SNAPOFFS 0
+      LENGTH 1.48301041685045
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9031219D-F752-4EBE-BEAB-3E89F935BD38}
+      IID 91
+      NAME "METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 9.50203125
+      PLAYRATE 0.99999999987608 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1CF04C4E-A090-4F7D-B7C6-5E7742793372}
+      <SOURCE WAVE
+        FILE "Audio\METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.5
+      SNAPOFFS 0
+      LENGTH 1.49719791673124
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2BBC13AB-AD47-4CE8-88B6-560453DAEB05}
+      IID 93
+      NAME "METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 12.00203125000014
+      PLAYRATE 0.99999999995688 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {727D5F6C-A163-4593-B857-8A5B77B27D03}
+      <SOURCE WAVE
+        FILE "Audio\METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      >
+    >
+    <ITEM
+      POSITION 19.5
+      SNAPOFFS 0
+      LENGTH 1.48301041685045
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {70B35F82-EC6B-491E-BD15-993D1BBE2202}
+      IID 99
+      NAME "METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 9.50203125
+      PLAYRATE 0.99999999987608 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AD6A0A60-6441-4331-B5F0-04389058EE00}
+      <SOURCE WAVE
+        FILE "Audio\METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      >
+    >
+    <ITEM
+      POSITION 22.5
+      SNAPOFFS 0
+      LENGTH 1.61533333361149
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2B0D51C5-0275-451B-B3DF-4462FC97015F}
+      IID 96
+      NAME "METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.50201041666667
+      PLAYRATE 0.99999999982781 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A7C86B50-CED2-423B-B30C-76206D117F21}
+      <SOURCE WAVE
+        FILE "Audio\METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      >
+    >
+    <ITEM
+      POSITION 25.5
+      SNAPOFFS 0
+      LENGTH 1.49719791673124
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5E1915A7-B83F-4BED-A497-736D9CBD6AEC}
+      IID 100
+      NAME "METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 12.00203125000014
+      PLAYRATE 0.99999999995688 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D21AF428-B14B-43F9-9B97-8AA1D32D185E}
+      <SOURCE WAVE
+        FILE "Audio\METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      >
+    >
+    <ITEM
+      POSITION 28.5
+      SNAPOFFS 0
+      LENGTH 1.48301041685045
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2671FDD0-E074-4D7E-B195-35009088712E}
+      IID 98
+      NAME "METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 7.50203125
+      PLAYRATE 0.99999999987607 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EA0DA422-8A98-4335-A483-E44296231CBF}
+      <SOURCE WAVE
+        FILE "Audio\METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      >
+    >
+    <ITEM
+      POSITION 31.5
+      SNAPOFFS 0
+      LENGTH 1.49796875007451
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BA9D3E36-8991-406A-9CE3-40B12C00C8AD}
+      IID 95
+      NAME "METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00203125
+      PLAYRATE 0.99999999995026 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {122D5E15-E7CC-4563-8DB8-5F3FF243D109}
+      <SOURCE WAVE
+        FILE "Audio\METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      >
+    >
+    <ITEM
+      POSITION 34.5
+      SNAPOFFS 0
+      LENGTH 1.5
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5F323A84-35D5-4B43-9C7C-0CFCE62F7273}
+      IID 97
+      NAME "METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 5.0019375
+      PLAYRATE 1.00000000004377 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {15E0E6A2-58D0-45CD-94B6-2427E8ACE10E}
+      <SOURCE WAVE
+        FILE "Audio\METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      >
+    >
+    <ITEM
+      POSITION 37.5
+      SNAPOFFS 0
+      LENGTH 1.5
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4FAD9C6E-41A3-4789-B635-6AD2BC0EED35}
+      IID 119
+      NAME "METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 5.0019375
+      PLAYRATE 1.00000000004377 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {44780545-34F8-4D44-ACDA-6B292489DEE5}
+      <SOURCE WAVE
+        FILE "Audio\METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A.wav"
+      >
+    >
+  >
+  <TRACK {D3319D12-C79D-48FA-B298-8D7845227489}
+    NAME "WINDGust_Interior Winds Quiet Moaning Cave_PSE_CW_hvdJe"
+    PEAKCOL 31420563
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 4128 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D3319D12-C79D-48FA-B298-8D7845227489}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 36.68384375
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 1.1 0 1.18384375 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BDD920CB-EB1C-4D7B-83EC-06E33AFF4475}
+      IID 117
+      NAME "WINDGust_Interior Winds Quiet Moaning Cave_PSE_CW_hvdJe.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 9.31615625
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6893936A-091D-459B-8786-6410E7E2409B}
+      <SOURCE WAVE
+        FILE "Audio\WINDGust_Interior Winds Quiet Moaning Cave_PSE_CW_hvdJe.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\WINDGust_Interior Winds Quiet Moaning Cave_PSE_CW_hvdJe.wav"
+      >
+    >
+    <ITEM
+      POSITION 35.5
+      SNAPOFFS 0
+      LENGTH 3.5
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1.1 0 1.18384375 0 1 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0D59ED28-9D2C-49F9-BACC-BBA46493EC27}
+      IID 117
+      NAME "WINDGust_Interior Winds Quiet Moaning Cave_PSE_CW_hvdJe.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 5.81615625
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2041392F-9798-4BB9-80E5-643B6B1E0E6B}
+      <SOURCE WAVE
+        FILE "Audio\WINDGust_Interior Winds Quiet Moaning Cave_PSE_CW_hvdJe.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\WINDGust_Interior Winds Quiet Moaning Cave_PSE_CW_hvdJe.wav"
+      >
+    >
+  >
+  <TRACK {19486B3C-B79B-42BE-8469-10D6AC581419}
+    NAME amb_tarot_campfire
+    PEAKCOL 16992553
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 4128 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {19486B3C-B79B-42BE-8469-10D6AC581419}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 34
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {83F8793D-C110-4B19-BC03-C0C6BECB6652}
+      IID 79
+      NAME "FIRECrkl_Wood Campfire Large Moderate Constant Crackles_PSE_EMB_mnsAS_01"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3128D416-5B08-4CA5-9106-31F2E3ADECFD}
+      <SOURCE EMPTY
+      >
+    >
+  >
+  <TRACK {DA5637AD-E272-4A8A-8B82-7CC042FBC636}
+    NAME "FIRECrkl_Wood Campfire Large Moderate Constant Crackles_PSE_EMB_mnsAS"
+    PEAKCOL 16992553
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 4128 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DA5637AD-E272-4A8A-8B82-7CC042FBC636}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT -1815 755 415 591
+      SHOW 1
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 1 0 0
+      <VST "VST3: kHs Compressor (Kilohearts)" "kHs Compressor.vst3" 0 "" 250963093{34ABB87000624821003D227500C57453} ""
+        lWT1Du5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAJECAAABAAAA//8AAA==
+        gQIAAAEAAAABAAAAeQIAAFBLAwQUAAgICADcSf9cAAAAAAAAAAAAAAAACgAAAHN0YXRlLmpzb27t2ztu3DAQBuBaOoUhpDQMRfDKdrp0aYIcIAiEsTSSiOVD4MNOYvju
+        FqnXGvYR/mYB/uQMP2rrecmzQrGn4tvVS55lBQU/Gjuviu+S/5Lu2F79IDWRdUYJ0kWevV7PNU9snTB6K+uNVeRj2dfiOgaTDIPQKShP1ZK57hyD6nZrMll27LceE/kx
+        7i+HNSk+VtwJz11cext4q1emY7nLvac2XVDelOXKsCyZHO/pqbx/qOt62VR05jClvTWY+8VlT86v9eSFidHtTV3dPVRrpR9n+Whktzau70731Wm904mO25HE9nGy4ov/
+        N6XGQk/BN06apX1WiNRBG81rsD37V9/Pr0zPzIpBmkeSbu+ng/ppuiAjTrvjAekFF/HvmGWpJqLJDsvXTl1j5EywLb+LSJmg/UXPOWuDfeL3EWt6lBf/yJbvTz0kRdpa
+        LwAGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQaYTzHx9086dhza5uvybeCu456C9MfEnRQta8eN
+        NMuIYT8f30b2PjUczfdeS66EFkr8X85ftgmp/XMzWW5FnK2cV4Nom2djz2Tnr/GhYiLL2jfDvLlOMe4P2G9vjYpTls7YODSZv+ZvUEsHCCyDDePzAQAA8TkAAFBLAQIA
+        ABQACAgIANxJ/1wsgw3j8wEAAPE5AAAKAAAAAAAAAAAAAAAAAAAAAABzdGF0ZS5qc29uUEsFBgAAAAABAAEAOAAAACsCAAAAAAAAAAAAAAAA
+        AAAAAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {016AAD1B-8D56-488D-96F3-BDE9904F030B}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAzQAAAAEAAAAAABAA
+        IQAAAAUAAAAAAAAAAQAAAO4l2gGf6k1Aj+21oPfGsD5oke18PzX6PwEIAAAAAQAAAHEqEvhjX7xAAXDomZSD6D8AAAAAAAAAQAEIAAAAAQAAACTogXHCrHZAjomf2Ru/
+        8z8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D+amZmZmZnpPwEEAAAAAAAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAA
+        APsCAAD8AQAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {57C73E8A-E896-4597-AE1C-76142A9B216C}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 20.08955208333333
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2D451C76-D82E-4C8D-925F-09EFFAA0C3FE}
+      IID 69
+      NAME "FIRECrkl_Wood Campfire Large Moderate Constant Crackles_PSE_EMB_mnsAS.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 15.12803337270564
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3C23A6BD-EB65-48B2-81DD-3FD309DF9811}
+      <SOURCE WAVE
+        FILE "Audio\FIRECrkl_Wood Campfire Large Moderate Constant Crackles_PSE_EMB_mnsAS.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\FIRECrkl_Wood Campfire Large Moderate Constant Crackles_PSE_EMB_mnsAS.wav"
+      >
+    >
+    <ITEM
+      POSITION 20.08955208333333
+      SNAPOFFS 0
+      LENGTH 13.91044791666666
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9F792AF2-19C0-49A9-9C95-21BA0EF1B2E0}
+      IID 69
+      NAME "FIRECrkl_Wood Campfire Large Moderate Constant Crackles_PSE_EMB_mnsAS.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.21758545603897
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2C60447E-8200-4A37-88EC-3C0398932FD1}
+      <SOURCE WAVE
+        FILE "Audio\FIRECrkl_Wood Campfire Large Moderate Constant Crackles_PSE_EMB_mnsAS.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\FIRECrkl_Wood Campfire Large Moderate Constant Crackles_PSE_EMB_mnsAS.wav"
+      >
+    >
+  >
+  <TRACK {55A4C03E-6207-464E-A398-BA15FCF62C24}
+    NAME ""
+    PEAKCOL 16992553
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    WIDTH 0.472
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 4128 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {55A4C03E-6207-464E-A398-BA15FCF62C24}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT -1735 883 942 676
+      SHOW 1
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAzQAAAAEAAAAAABAA
+        IQAAAAUAAAAAAAAAAQAAABnu5/vxrFdAj+21oPfGsD41XrpJDAL7PwEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D+amZmZmZnpPwEEAAAAAAAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAA
+        APsCAAD8AQAAAgAAAA==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E4A22071-A6EB-4BE0-BD95-71AFE910C0A8}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 10.65212229147716
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 1.1 0 0.22465874981049 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {71B20B4E-84A7-4A3B-83C2-1004E4D0CE3C}
+      IID 72
+      NAME "FIREBurn_Burning Wood Campfire_PSE_GEN_DYNEb.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 18.57253645833333
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0251EFD8-2443-438C-884F-31A882A4CD47}
+      <SOURCE WAVE
+        FILE "Audio\FIREBurn_Burning Wood Campfire_PSE_GEN_DYNEb.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\FIREBurn_Burning Wood Campfire_PSE_GEN_DYNEb.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.42746354166667
+      SNAPOFFS 0
+      LENGTH 2.43448753223464
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1.1 0 0.22465874981049 0 1 0 0
+      FADEOUT 1.1 0 0.15691091946207 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6B50DF98-CC55-4F7D-B62F-9B03030DB884}
+      IID 72
+      NAME "FIREBurn_Burning Wood Campfire_PSE_GEN_DYNEb.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 29.70846741815188
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6523FBCA-447D-4CD3-A38B-868D28C8D612}
+      <SOURCE WAVE
+        FILE "Audio\FIREBurn_Burning Wood Campfire_PSE_GEN_DYNEb.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\FIREBurn_Burning Wood Campfire_PSE_GEN_DYNEb.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.70504015443924
+      SNAPOFFS 0
+      LENGTH 2.72242338722743
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1.1 0 0.15691091946207 0 1 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8119FD12-26BE-4B25-8A3C-9FFBDE2850A9}
+      IID 72
+      NAME "FIREBurn_Burning Wood Campfire_PSE_GEN_DYNEb.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 32.40447314948997
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {286B2E5C-C0A2-4800-A221-B520BE660689}
+      <SOURCE WAVE
+        FILE "Audio\FIREBurn_Burning Wood Campfire_PSE_GEN_DYNEb.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\FIREBurn_Burning Wood Campfire_PSE_GEN_DYNEb.wav"
+      >
+    >
+    <ITEM
+      POSITION 15.42746354166667
+      SNAPOFFS 0
+      LENGTH 18.57253645833332
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {32EF7FFE-C1D8-41EF-A574-F0B92860046D}
+      IID 72
+      NAME "FIREBurn_Burning Wood Campfire_PSE_GEN_DYNEb.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {95E91673-3E63-4393-82E1-3DDE32706B61}
+      <SOURCE WAVE
+        FILE "Audio\FIREBurn_Burning Wood Campfire_PSE_GEN_DYNEb.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\FIREBurn_Burning Wood Campfire_PSE_GEN_DYNEb.wav"
+      >
+    >
+  >
+  <TRACK {FB4F257C-E352-4B21-9BAE-B86EBB2720E4}
+    NAME amb_tarot_goldnugget
+    PEAKCOL 31420563
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 4128 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FB4F257C-E352-4B21-9BAE-B86EBB2720E4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 36
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {006AC9AC-046B-4D70-9A1D-30994A6F53C8}
+      IID 103
+      NAME "METLImpt_Anvil Hits Single Resonant_PSE_GEN_o0c7A_01"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4CBDBC10-A7C5-4A57-BA2D-57F03C16A84A}
+      <SOURCE EMPTY
+      >
+    >
+  >
+  <TRACK {F062F17D-B9FE-4CF0-8A51-E7AB0869DC8C}
+    NAME "DSGNDron_Amb Drone Monastic Deep Monk_PSE_GEN_pVGK8"
+    PEAKCOL 31420563
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 4128 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F062F17D-B9FE-4CF0-8A51-E7AB0869DC8C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 20.54666145833335
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 1.1 0 2.784140625 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {736E852F-A959-4224-BA87-049D82E4E832}
+      IID 81
+      NAME "DSGNDron_Amb Drone Monastic Deep Monk_PSE_GEN_pVGK8.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 21.12361979166666
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {949B3C45-CD68-4C93-8A29-0DC1C741B1B6}
+      <SOURCE WAVE
+        FILE "Audio\DSGNDron_Amb Drone Monastic Deep Monk_PSE_GEN_pVGK8.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\DSGNDron_Amb Drone Monastic Deep Monk_PSE_GEN_pVGK8.wav"
+      >
+    >
+    <ITEM
+      POSITION 17.76252083333334
+      SNAPOFFS 0
+      LENGTH 18.23747916666666
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1.1 0 2.784140625 0 1 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1266FB59-7F00-4BCE-A3CE-A62F28CE49E0}
+      IID 81
+      NAME "DSGNDron_Amb Drone Monastic Deep Monk_PSE_GEN_pVGK8.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.886140625
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {28E745B7-F40F-433E-B91C-FF71D8F8A837}
+      <SOURCE WAVE
+        FILE "Audio\DSGNDron_Amb Drone Monastic Deep Monk_PSE_GEN_pVGK8.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\DSGNDron_Amb Drone Monastic Deep Monk_PSE_GEN_pVGK8.wav"
+      >
+    >
+  >
+  <TRACK {0FB005A2-FF22-4427-8BC8-2CA90B564DD1}
+    NAME "GLASTonl_Singing Wine Glass Single Note Sustained_PSE_GEN_ylKnD(2)"
+    PEAKCOL 21878861
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.54156767745055 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 4128 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0FB005A2-FF22-4427-8BC8-2CA90B564DD1}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT -1623 215 1284 549
+      SHOW 0
+      LASTSEL 3
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST3: Tremolator (Soundtoys)" Tremolator.vst3 0 "" 1348472659{5653545374546D7472656D6F6C61746F} ""
+        Uw9gUO5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAtAcAAAEAAAD//wAA
+        pAcAAAEAAABWc3RXAAAACAAAAAEAAAAAQ2NuSwAAB4xGQkNoAAAAAlN0VG0AAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG9FdJREdFVCA9
+        IFRyZW1vbGF0b3I7DVZFUlNJT04gPSA0Ow1TQVZFRF9CWV9WRVJTSU9OID0gNS41LjQ7DUJVSUxETlVNID0gMTg5ODI7DVBSRVNFVCA9MDEwMTAwMDAxNjgwMDEwMTAw
+        MDRrPEBcaVFvVF1camw4UTBbSF05UU1Sb0BXZFNLTEUxNUBuXjk/Vk8zUEZdSWZNM0dQUmNYWD9vV2M6XUlFQU5bS1JkQTRmQmFDRV5PPWFQSU0zR0tSVDUyV0hNQj8/
+        ZU5uNG5QTEhBPVFSZW9WMjJDPlo+VExoZ29BXTdPVThcQDJgV1dVOFxsamRvOkBcalhBZFBuaVtWUzZsOVNNa0xQTERkXVpqbERCZmlZO0dDPjk9WWFiMD1mSkM8VjdS
+        NU5bUFRGNFw9N2FlUDxPXEJuWE80VGk8XVYwV1RPbl9tNGRZW0VVPUc1YGpBTF1ARU1aRVxdR2lXTlREXzhUXTA/Oj1JYWQzN2ZUMWBjYVBiS04/QkxbXkBqYjFrWkJG
+        aThBZk1IWjRhUGdkXkxYNUJTZThnPmZFQ1BQR1VRMFZnUTppUTNKNFs/ZWE6SEJeVl9HaG9uNVc3QGNmbkhYZU1FNUo5PzRdRGo6VEdrOUtmVkMwXk9mWjtGUmleVWI7
+        QlY2RUhuYE9ZQ1dYOW8zVzhYYD4/PmQ/W1IxVzFrXTVbVGs0Zlc5ZThWQjllMUJabUtabGBYOmRfSFxAQW81N0lIWFFkZF4yOl43N2xoUzo8VUJbZW5oWWJOWUxOWUBt
+        U0cxV1w+SGFDZjg+UkliZmBcVk1tbjo6TUdjPWRYOE1HTD0wNVtvZEthMz9CVjw9NkdSYUcyVE5hNVs6MVNcOE9VRUhDSj1YVkY6bVJvaWxuXTc4QTc3UE5dODpFUW4w
+        Y2BTWmcxOllENF1tVTFBT0JDbzdVQ2hHbmcwQkhZQ0dgTGpIUFY7SVBhT1lKSV5kWzpMO0lVSGA1a1JaNUk5WE5rS0NaOmFKPWVQR1pFYjZkT1xASE1pWFA4SzdAWktN
+        VjtXM1o6YUo9ZVBHWkU6aDxJSkBjNV45RjlEYEVEPjo1amdRRllKblVPO2deNFBkSF01aVBjUjVMYEVsWFtmRWlePVRFXz1aaFVcS0w8VGk3SVNaVWw4OFxMSFs8ZT5r
+        UDJWUDFdS1ljbkVYbjFtVG1nTl1NSFhvYmA/akhUQGdCMWk+YDZUSWBrYDZeXDhuSEFXO1w1PFJhVFxHXWkyTklIYlE1X1NiZ09SMUQ6UkQ3ZUdIb11rYlBDQWdeQDE7
+        XmlWSzVSaDoxZmUxRF9dNUlLazlnQmllTzBKXF1jMEMxRUZTZWo/SzhjUjU8WjpCOG9JWT5ZX2pRS2pNaVAzMUlAVFZKPVBLa0BWRWYyMFlvOVVMNlRkSUo4OW1ObUxR
+        Qlc0aVkxXzpmUkE8MU5XQDpdRUhSPVdTYU1dYWpKVUpGVWo8Y1JuZzZMVUFPOUtkWjJqW0ZDb0pmNzRUbWRRTFlCT1RbYGVQQURobDdWUTZtZlQ1XGVEY19NO2hYalI+
+        Z1wxXkwxa2lXT1hLVkVtRWpeOVpqRFc7Y1g1PTROYFBXOzdpUFBUY1pTWTc+PVlrQVI6RGxYPlpOO0dFY1dFZDQ4Vk5PXWw7Pl42TEk8V15kZkw0V0gxOTo/NmtjZ2RG
+        amFKTFRtRGtKMFRHR2pAX2tKZDEyaU9GOV1TMV1ZO11iXUNLals2S1tVSElkXTc/OTZmS0JbPFRQPVNKV0JoMFJgX0xjUm5nNkxVQU85W1ZBYkJnVlJHPztpXDpvUFo2
+        N2pQMjJLMGc2bDw3MVFJNm89bjtqMG9rVGEyV1I/NDtLNjNkREVjMFJnTWkzNzxAWWhTYTJmYVBtPj5Zaj9lSzdaTDM0Ok44bEBdXEg/MFlvOVVMNlRkSUhhMldSPzQ7
+        SzYzZVZSU0M+VTFINGY7RzVlWj5KVGNTUTczampfaEo0XWZTNDpOOGxAXVxIPzpANFZdYV5MVFJAYTJXUj80O0s2M2ZMQWxJNjNdMFNOYE5sMFw2N1ZvYFtoYVpjOGYz
+        WVZmS1xNSFxVUkVgW008QFloU2EyZmFQbkg4OTxqWGpBY1NDNDpOOGxAXVxIP2A7ZGRIMWBCZWVVaWZlbTs7U2JhYVBbUTo4PkhMUTFOQ1NaTlNtRmFqVzBCTGRNXjs/
+        bGhmQzQ6TjhsQF1cSD9OTGdjXENjRFpPRmUxRWZZRmJlT1ZHU1Y/O1dfVUtvVTBEaV9XPWYxOzpBMmo1bGtJXzpINV1RUkRMVT5DRDpsOW1uQGJnZGRXW2RIX1BPUWYy
+        Y1VsZWJlV21YZzZqXTVaSmhaME5kXUZWbTxGZ2NZUjxpaU5AMDAxPVwwOw0AAAAAAAAAAA==
+        AAAAAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {44A6ABD0-023B-4C35-B0EB-2398850BD090}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST3: Synchron Stage Reverb SO (VSL)" "Synchron Stage Reverb SO x64.vst3" 0 "" 1942244301{399F3F1E0CC94109A6530984AB846184} ""
+        zUvEc+5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAsQkAAAEAAAD//wAA
+        oQkAAAEAAABTaXplmQkAAHsiZGF0YSI6eyJjdXN0b20iOnsicG9zaXRpb25JbmRleCI6MTN9LCJtZXRhIjp7Imd1aSI6eyJhYiI6MCwiZmxvdyI6bnVsbCwiaGVpZ2h0
+        IjoxMDAsImxhc3RQcmVzZXRQYXRoIjoiIiwic2NhbGUiOjEuMCwic2hvd01ldGVyIjp0cnVlLCJzaG93UHJlc2V0QnJvd3NlciI6ZmFsc2UsIndpZHRoIjoxMDB9fSwi
+        cGFyYW1ldGVycyI6eyJieXBhc3MiOjAuMCwiZHJ5QmFsYW5jZSI6MC41LCJkcnlXZXQiOjEuMCwiZXEwZW5hYmxlZCI6MC4wLCJlcTBmcmVxdWVuY3kiOjEwMS40MjQy
+        MDk1OTQ3MjY1NiwiZXEwZ2FpbiI6MC41NjY0MjU5MTk1MzI3NzU5LCJlcTBxIjowLjM5OTk5OTk3NjE1ODE0MjEsImVxMHR5cGUiOjEuMCwiZXExZW5hYmxlZCI6MS4w
+        LCJlcTFmcmVxdWVuY3kiOjIwMC4wMDAwMTUyNTg3ODkwNiwiZXExZ2FpbiI6MC43OTQzMjgxNTMxMzMzOTIzLCJlcTFxIjowLjYzOTk5OTk4NTY5NDg4NTMsImVxMXR5
+        cGUiOjAuMCwiZXEyZW5hYmxlZCI6MC4wLCJlcTJmcmVxdWVuY3kiOjg0MC4wLCJlcTJnYWluIjoxLjAsImVxMnEiOjAuNjM5OTk5OTg1Njk0ODg1MywiZXEydHlwZSI6
+        MC4wLCJlcTNlbmFibGVkIjowLjAsImVxM2ZyZXF1ZW5jeSI6MTI0MC4wLCJlcTNnYWluIjoxLjAsImVxM3EiOjAuNjM5OTk5OTg1Njk0ODg1MywiZXEzdHlwZSI6MC4w
+        LCJlcTRlbmFibGVkIjowLjAsImVxNGZyZXF1ZW5jeSI6MjkxNi41OTU0NTg5ODQzNzUsImVxNGdhaW4iOjAuODkxMjUwOTY3OTc5NDMxMiwiZXE0cSI6MC4zMDAwMDAw
+        MTE5MjA5Mjg5NiwiZXE0dHlwZSI6Mi4wLCJlcUVuYWJsZWQiOjEuMCwiaGlnaFNoZWxmIjoxLjAsImxvd1NoZWxmIjoxLjAsIm91dHB1dEFDTjAiOjEuMCwib3V0cHV0
+        QUNOMSI6MS4wLCJvdXRwdXRBQ04xMCI6MS4wLCJvdXRwdXRBQ04xMSI6MS4wLCJvdXRwdXRBQ04xMiI6MS4wLCJvdXRwdXRBQ04xMyI6MS4wLCJvdXRwdXRBQ04xNCI6
+        MS4wLCJvdXRwdXRBQ04xNSI6MS4wLCJvdXRwdXRBQ04yIjoxLjAsIm91dHB1dEFDTjMiOjEuMCwib3V0cHV0QUNONCI6MS4wLCJvdXRwdXRBQ041IjoxLjAsIm91dHB1
+        dEFDTjYiOjEuMCwib3V0cHV0QUNONyI6MS4wLCJvdXRwdXRBQ044IjoxLjAsIm91dHB1dEFDTjkiOjEuMCwib3V0cHV0QkZDIjoxLjAsIm91dHB1dEJGTCI6MS4wLCJv
+        dXRwdXRCRlIiOjEuMCwib3V0cHV0QlJDIjoxLjAsIm91dHB1dEJSTCI6MS4wLCJvdXRwdXRCUlIiOjEuMCwib3V0cHV0QlNMIjoxLjAsIm91dHB1dEJTUiI6MS4wLCJv
+        dXRwdXRDIjoxLjAsIm91dHB1dEwiOjEuMCwib3V0cHV0TEMiOjEuMCwib3V0cHV0TENTIjoxLjAsIm91dHB1dExGRSI6MS4wLCJvdXRwdXRMRkUyIjoxLjAsIm91dHB1
+        dExTIjoxLjAsIm91dHB1dExXIjoxLjAsIm91dHB1dFBMIjoxLjAsIm91dHB1dFBSIjoxLjAsIm91dHB1dFIiOjEuMCwib3V0cHV0UkMiOjEuMCwib3V0cHV0UkNTIjox
+        LjAsIm91dHB1dFJTIjoxLjAsIm91dHB1dFJXIjoxLjAsIm91dHB1dFMiOjEuMCwib3V0cHV0U0wiOjEuMCwib3V0cHV0U1IiOjEuMCwib3V0cHV0VEMiOjEuMCwib3V0
+        cHV0VEZDIjoxLjAsIm91dHB1dFRGTCI6MS4wLCJvdXRwdXRURlIiOjEuMCwib3V0cHV0VFJDIjoxLjAsIm91dHB1dFRSTCI6MS4wLCJvdXRwdXRUUlIiOjEuMCwib3V0
+        cHV0VFNMIjoxLjAsIm91dHB1dFRTUiI6MS4wLCJyZXZlcmJUaW1lIjozLjU5OTk5OTkwNDYzMjU2ODQsInNvbG9BQ04wIjowLjAsInNvbG9BQ04xIjowLjAsInNvbG9B
+        Q04xMCI6MC4wLCJzb2xvQUNOMTEiOjAuMCwic29sb0FDTjEyIjowLjAsInNvbG9BQ04xMyI6MC4wLCJzb2xvQUNOMTQiOjAuMCwic29sb0FDTjE1IjowLjAsInNvbG9B
+        Q04yIjowLjAsInNvbG9BQ04zIjowLjAsInNvbG9BQ040IjowLjAsInNvbG9BQ041IjowLjAsInNvbG9BQ042IjowLjAsInNvbG9BQ043IjowLjAsInNvbG9BQ044Ijow
+        LjAsInNvbG9BQ045IjowLjAsInNvbG9CRkMiOjAuMCwic29sb0JGTCI6MC4wLCJzb2xvQkZSIjowLjAsInNvbG9CUkMiOjAuMCwic29sb0JSTCI6MC4wLCJzb2xvQlJS
+        IjowLjAsInNvbG9CU0wiOjAuMCwic29sb0JTUiI6MC4wLCJzb2xvQyI6MC4wLCJzb2xvTCI6MC4wLCJzb2xvTEMiOjAuMCwic29sb0xDUyI6MC4wLCJzb2xvTEZFIjow
+        LjAsInNvbG9MRkUyIjowLjAsInNvbG9MUyI6MC4wLCJzb2xvTFciOjAuMCwic29sb1BMIjowLjAsInNvbG9QUiI6MC4wLCJzb2xvUiI6MC4wLCJzb2xvUkMiOjAuMCwi
+        c29sb1JDUyI6MC4wLCJzb2xvUlMiOjAuMCwic29sb1JXIjowLjAsInNvbG9TIjowLjAsInNvbG9TTCI6MC4wLCJzb2xvU1IiOjAuMCwic29sb1RDIjowLjAsInNvbG9U
+        RkMiOjAuMCwic29sb1RGTCI6MC4wLCJzb2xvVEZSIjowLjAsInNvbG9UUkMiOjAuMCwic29sb1RSTCI6MC4wLCJzb2xvVFJSIjowLjAsInNvbG9UU0wiOjAuMCwic29s
+        b1RTUiI6MC4wLCJzb3VyY2VDZW50ZXIiOjAuNSwic291cmNlV2lkdGgiOjEuMCwid2lkdGgiOjEuMH19LCJ2ZXJzaW9uIjowfQAAAAAAAAAA
+        AAAAAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9CCC3548-B45A-481D-96E3-8E8E95207B5F}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAzQAAAAEAAAAAABAA
+        IQAAAAUAAAAAAAAAAQAAALMCZ/NlXGFAj+21oPfGsD5mZmZmZmb6PwEIAAAAAQAAAGJL8RuVcodAlgmjn8Vs6z80MzMzMzPjPwEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEBAAAAAQAAAMniQ7A7trBAj+21oPfGsD6YbhKDwMr3PwEEAAAAAAAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAA
+        APsCAAD8AQAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {3EEDE05D-69F5-4B2E-8F0B-A442855A24F7}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST3: OrilRiver (Denis Tihanov) Reverb" OrilRiver.vst3 0 "" 171394604{D6FAE8EBF87044EF9AAB360BB521FC19} ""
+        LEY3Cu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAtwAAAAEAAAD//wAA
+        pwAAAAEAAAAFAAAAAAAAAAAAAGA58+w/AAAAAAAAAAAAAAAAAADwPwAAAKD/ydE/KVyPwvUozD+PwvUoXI/qP5qZmZmZme0/y5YDA/cM6z9/OxcctAndPwAAAAAAAOA/
+        sJH+FvcB4T8AAAAAAADgP++69J8dueQ/AAAAAAAAAAAAAADg8f7mPwAAAAAAAPA/AAAAgFOB4z8EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {51A3F543-CA5E-4D98-BB76-42D38BE381B1}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 13.71481510416666
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 1.1 0 1.44 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E953E026-150F-4E2D-9714-276D3B842AC5}
+      IID 120
+      NAME "GLASTonl_Singing Wine Glass Single Note Sustained_PSE_GEN_ylKnD(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.22518489583333
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9E8274C4-E3BB-4D9E-84CA-49F79C6688BD}
+      <SOURCE WAVE
+        FILE "Audio\GLASTonl_Singing Wine Glass Single Note Sustained_PSE_GEN_ylKnD(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\GLASTonl_Singing Wine Glass Single Note Sustained_PSE_GEN_ylKnD(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 12.27481510416667
+      SNAPOFFS 0
+      LENGTH 14.17410677083334
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1.1 0 1.44 0 1 0 0
+      FADEOUT 1.1 0 0.62302864583334 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AC6371E9-37BE-46E1-9E46-149AAB725205}
+      IID 121
+      NAME "GLASTonl_Singing Wine Glass Single Note Sustained_PSE_GEN_ylKnD(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F5571A7B-CB7C-4FD0-9B07-E11BC0E36404}
+      <SOURCE WAVE
+        FILE "Audio\GLASTonl_Singing Wine Glass Single Note Sustained_PSE_GEN_ylKnD(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\GLASTonl_Singing Wine Glass Single Note Sustained_PSE_GEN_ylKnD(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 25.82589322916666
+      SNAPOFFS 0
+      LENGTH 10.17410677083334
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1.1 0 0.62302864583334 0 1 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FE1C7D61-49DF-4AD8-9D82-CF5ABC7EA2BC}
+      IID 124
+      NAME "GLASTonl_Singing Wine Glass Single Note Sustained_PSE_GEN_ylKnD(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F0B9B9A9-DD04-40F9-92B1-69E55211FD50}
+      <SOURCE WAVE
+        FILE "Audio\GLASTonl_Singing Wine Glass Single Note Sustained_PSE_GEN_ylKnD(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\GLASTonl_Singing Wine Glass Single Note Sustained_PSE_GEN_ylKnD(2).wav"
+      >
+    >
+  >
+  <TRACK {1F0DB679-263F-42D9-BF4C-6C8079D5818B}
+    NAME amb_tarot_spelltower
+    PEAKCOL 27249739
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 4128 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1F0DB679-263F-42D9-BF4C-6C8079D5818B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 30
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7228F569-22EF-4652-8B5F-2985EB17F446}
+      IID 189
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2)_01"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {418DD285-CB5D-40C3-B267-CC7363800379}
+      <SOURCE EMPTY
+      >
+    >
+  >
+  <TRACK {42320C20-99CC-49ED-AED3-8A9AC149EC3C}
+    NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2)"
+    PEAKCOL 24475980
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.51365752360357 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 4128 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {42320C20-99CC-49ED-AED3-8A9AC149EC3C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT -2136 877 415 432
+      SHOW 2
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST3: EchoBoy (Soundtoys)" EchoBoy.vst3 0 "" 56492099{565354537445426563686F626F790000} ""
+        QwBeA+5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAPQkAAAEAAAD//wAA
+        LQkAAAEAAABWc3RXAAAACAAAAAEAAAAAQ2NuSwAACRVGQkNoAAAAAlN0RUIAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIfVdJREdFVCA9
+        IEVjaG9Cb3k7DVZFUlNJT04gPSA0Ow1TQVZFRF9CWV9WRVJTSU9OID0gNS41LjQ7DUJVSUxETlVNID0gMTg5ODI7DVBSRVNFVCA9MDEwMTAwMDAyMDc2MDEwMTAwMDY1
+        PEBcaVFvVF1camw4UTBbSF05UU1Sb0BXZFNLTEUxNUBuXjk/Vk8zUEZdSWBPWl9eRGNCSVg6XjVLYl9AbltnYVczWWdlSWNPTkAxa05GPzY6QFczWmxZMEJKZzZpYkI5
+        MGZtbmZbOzU6YVdoZUg8WDQ8P2JEY1tSQ2lXYGg1W0ZMN2pba1U8ZFZKMk1rNEFqNk5Obz03UFc/T1FcSWVlWlU8O1NQaW1oSVozWzdJYjZsZW1EaTEyWDQ9SjczVWBN
+        NmBkOVptOVRDNW4wQDwwV29pRVJnPGhcN0w4RGBUSGE8TExgVzxuXDlkQ0VPaUMxXkc8SGI/Nm5FS2NFRzVgNWpDQ2Q3WGcyPE5DXjVkXEBibEFjYkFhTVtkOVs/aWlr
+        S106YlcyZklGPDFEM11kUWJfYTNYMzdST19CNWI3b0xVSEk6MzZZTlsxYGg4XT9salwzYEBiTVJrNFtOZzdVbTIyRFdESEBOXjlpXDNuVjk0PWRQTkBWPGRFM2E9NWdA
+        aD9FbEo2OWoyMGlMX11tSTM5S25DZDJbQ1RtZzZAZWA/ZlJCR1o9NEtNYWQ+VjZMWF07Sl1pR2M9ZFg4TUdMPT5PXWw7Pl42TEk8W18+W15jXjhtXUpKZUNEVkxtPmk9
+        TlBEZEFrMjJMXE9LTT8xU09AN1RLTWJRMTVrMVsyWGtpMFFOMF9jO0FqPG9kS0FnaUI7NDBcXz5SZTA1SlpLXWloPT9TS2NlWWdONTY5UTo8NkhaYU8xYWZgPFpXbVtb
+        V11gWVM1WFM6SFlJWGYxX10ySUdIODJXbFZFYEpDQVVVOE9SSTw2VFFDN1tNW186aW9SWG1OTTBaZUVSOGZOPztETkxZZko3TzRPYz47a0xJYkU1bFU1W0tBXUhOTjJu
+        UjxdMz49R2RDOGloVm1rPTgzTldcQlpcP1NYVGpXTDxYVVJNZD1cMWlqRUk7NWtOQFdWRjxYN0RAVFg5UDVsR0I+bmVUaD9STVNSTF9dbUkzOUtuQ2QyW0NUbWc2QGVg
+        PVA2RURna1tmVURbXT1rRz9jNzhDNUdaUE1oTmReVUttakhRUkhqMWRkWz44Mj5UTjtURmgwSFAzM1I7Ozo0UDxjUGJSOzVLW1k/UDpWYFVQUmFuaVNQRjFvTjdKbWlH
+        NVZSU0M+VTFINGZRR2RoWDxlSlhSOl9DT1Fgbl86bT5QNT5LaWNNUEJiVG5aQzFbQjtMMGxYalJcRlNNSDVqVUo5PzRdRGo6VEdrOTUyRGxJNzxOXzFDM2Q+SWtcNjkx
+        OzBvWVJBM004N1Q9NldCYFlRaFgzVERCZVcxTltiZDtOM05DYjZuaW1ORlwyQjBWOVpWQEEzMldqRFs7ZjVFNGtdOmJXMmZJRjwxOV1AQToxWjk6aGFVNlFfWGI8UmBC
+        NERFYzBSZ01pMzdkR0g8Z1VdUUY3SGhPS0czNz8wblVHVmw7amxsRTpPMVFLN01ZPTE8ODVfQVwwaGxZYjBQWlw3N0swYlpPZl5eaEJMZElRU1FJamhFTzRvY0VVMkdW
+        NFtgZVBBRGhsN1ZRNm1mVDVcZURjXzhoQGc4YmM2OWhMY1JuZzZMVUFPOVtQRkFrW2lfRm9cQWVNOFRgVjoxWjZmNmM/MkZfRlk4S2xCQFRpTU9nUVVdOFxiaTpDTEFN
+        NkRKNm5TOGI7MThBQUc8MjtNZ1Q8T0FNUGNORmY1SE1WRWRGa0Y3bEpvVjNLZ2tKXFxEWzZPTkpeXF9gQUhQaEJPT1Q8XW09OWptV2ZWS1k6bzxFQV5QTl0+aWdGTGVI
+        UktENEJQSlJCXjxuRktmbT02WU5RZEZWRk1PNkVAW25bTGlrVFYyN0hlXltpa1NAO0xKY1ZgOztHRUBRTTJvT14zTkNiNm5pbU5GRm5bVTpVM1luQ0NPVTRbT1pFPThI
+        NVZSU0M+VTFINGZXWkc3WkQ/SGVgSkpta1pfbFNWPT07TzprPWM3OWhOZWg9aT84S2tXZWlJS2peRFpEPldpPTFQOzxVblZZRWlMSTtWNWJuNWxfOT9hPlw4UjoxY2dt
+        S1hGbzFjTkldYjFDQ0VOZllQZDJgR1g1PTROYFBXOzdmZ0NgSGdkMWk2Z0xYQEFOYEpgWj5sa204UEo+WGNCVmBmbW5mWzs1OmFXNj5cNlQ+Rm5gPGFLbkhYZUtsWUlY
+        XDc3SzBiWk9mXl5VS1Y+Ym1PazhaaDFvZ0RUTW1TU15WQmFOZ1Q5aVVTOjRGbj87TW44NUBbRUkyQztsYFhFUE9TVE82N0xBRDlcOmNKMDVTNV9dNWZvPkVmaUpPY21d
+        N2VBQUlEaWM0R0tJOWxSW2QxPE1cWE5pN2U+P0lkam1dTEEyZmhQb19YPDxlQ2NHQkxcUzRkMUNWbkxnSDRcWTMyVUtYSj9pMDdSZjNoZV0zUDBMM0ZeW2pCazoyS2pO
+        Zm5iSVZbQldBYlpRbUM9WEdKYEs5OE1ZS0RBO1M/VkdDWjphSj1lUEdaRUE2Szc2YVQzR15aZDNsbE5rOj5abzVWampTaVVdaExDSTs1a05AV1ZGPFtMNG1ca1JCVUVd
+        OGBcQ2AyWUVDVT9JWGYxX10ySUdIODJXbFZFYEpDQVVaUm9BSFQ+Ul1qODJmTWlXQ2k1a0tZXVFcY2BVW2VaQjQ7WEdjXVZsWVBGZjY5QWJEaT1AW2BXZ2kzO09DQk5f
+        QVJuMW43SDs+R2NHO0ZPZlNMS1pkREpPRUJgQEVuUm5fUEo/M1hFO09lZzAwMDYxM2hsOw0AAAAAAAAAAA==
+        AAAAAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {0E6ABEB1-819B-4DDB-A191-A9CA15FC9FF3}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST3: kHs Reverb (Kilohearts)" "kHs Reverb.vst3" 0 "" 1304368705{57C6C07F0065421600BF482A003AFA7A} ""
+        QRa/Te5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAXwIAAAEAAAD//wAA
+        TwIAAAEAAAABAAAARwIAAFBLAwQUAAgICADcSf9cAAAAAAAAAAAAAAAACgAAAHN0YXRlLmpzb27t28lu2zAQBuCz9BSB0GMQxIa7oLfeeukTFIUxFscKES4CFztpkHcP
+        F9FLkkf4Lwb4c2b4iT7zpe8GzYGGnzcvfdcNFMODdWk1/FL8REawu/lNeibnrZZkhr57vU09B3ZeWtPa9tZpCrltNdzmYFZxkqYE95uvNfPiMQfrTRsyO/Yc2oyZwkPe
+        r8WGNJ9XLGRgkdfBRW792gpWrZ3JqedccX+3bgfK/2XGui5F+g5ppsVQIx6pNH27W21WP9ab7y3fU1TBL8O7QcmRjeetsmP5iD0pz6U2nWxopy50Nf0Snudy+mlWzbU0
+        UieYeD8mlvHHbbqVUebLTatJjtujdY/kbDQfOtK/wiZsp7Q5ly9PF1NuphsmZXep8uQ3Uf+xIioKabCvxYvnKv6bs670pL1Abqp/UJmaI2+jG/kqIp1w4WJmysboDnwd
+        fXpNlxd1lgxlazkAGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYD7F5N9/pexc1N7X9e3B3VGK
+        +nxxeQCp5VM59/QY8dTq+MBul98w9q/9G1BLBwhRdkXFwQEAAIA5AABQSwECAAAUAAgICADcSf9cUXZFxcEBAACAOQAACgAAAAAAAAAAAAAAAAAAAAAAc3RhdGUuanNv
+        blBLBQYAAAAAAQABADgAAAD5AQAAAAAAAAAAAAAAAA==
+        AAAAAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {0A19233F-CBD8-46E9-9BDC-F5E2F160E536}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 1
+      SNAPOFFS 0
+      LENGTH 2.54721874929965
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {04A7E95B-3681-4751-B7B9-D068462EB44A}
+      IID 141
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.45278125
+      PLAYRATE 1.00000000027495 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {745CB9E1-683C-472A-A32D-68BAE85695EE}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 7
+      SNAPOFFS 0
+      LENGTH 2.65283333323896
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4BB0A08D-8B66-4262-9E12-6DA50C53067C}
+      IID 143
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 6.17894791666663
+      PLAYRATE 1.00000000003556 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B65CBD40-B112-4D1C-A696-D3A63D6A6D79}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 13
+      SNAPOFFS 0
+      LENGTH 2.77847206220031
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0.07771822065115 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6837946C-313C-42C2-8551-D5E433A6F154}
+      IID 145
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 12.13570502054375
+      PLAYRATE 1.00000000019258 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {74CFFC46-817C-4AE4-9F28-C9838FD36D18}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 19
+      SNAPOFFS 0
+      LENGTH 2.82007514685392
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0.1813425142318 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0D264CCB-3CF3-4630-BB64-B19C185AD49C}
+      IID 147
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 17.7342998497416
+      PLAYRATE 1.00000000119091 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9F160569-1FFC-43E7-AE5A-7BDC2097A2C1}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 25
+      SNAPOFFS 0
+      LENGTH 2.78840624913573
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {92AA2182-9F60-4651-986B-44A2854B8278}
+      IID 149
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 23.30929166666623
+      PLAYRATE 1.00000000030987 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EB7B968D-5441-4F74-BE12-6F029E306F2B}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 42.1866458337754
+      SNAPOFFS 0
+      LENGTH 2.8133541662246
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8A76A9C6-52D9-4989-8ED4-D0C4EB52AEF0}
+      IID 152
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 33.42576634715593
+      PLAYRATE 1.00000000015714 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {083D07BC-26D8-4BFB-8B21-90D48DA43680}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+  >
+  <TRACK {7EACDD6A-A3C9-4AF2-85CE-D1144BCB7195}
+    NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2)"
+    PEAKCOL 24475980
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.21260972541623 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 4128 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7EACDD6A-A3C9-4AF2-85CE-D1144BCB7195}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT -2286 674 942 676
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST3: kHs Convolver (Kilohearts)" "kHs Convolver.vst3" 0 "" 1598026044{E0D650B2009C40D400AEEBEF00625EDB} ""
+        PPE/X+5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAABwMAAAEAAAD//wAA
+        9wIAAAEAAAABAAAA7wIAAFBLAwQUAAgICADcSf9cAAAAAAAAAAAAAAAACgAAAHN0YXRlLmpzb27t271u2zAQB/DZfgpD6BgESRAUaLeiKNoOXdqxCISLdHaI8Ask5dgx
+        /O4lRVGi2+YN/h4M8fj145HrndarRnGg5uPmtF6tGhrCk3Gx1XySfCDds9t8I2XJeaME6Wa9Ol/FOXt2Xhhdpm2NUxTStNvmKgWsHHZCj4Gbu5sc8/1zCtzdl0WsY8+h
+        rGEpPKX+PFiT4qXFvQjcp3ZwA5f5yvQsy/Rg9Dhh2kyJQ8Xx4pWr5pa5f6TuuRofLW1cjY7TelEwKHYUcjbyqLiLUFy334WjHQPL/NzRs44J02V+1Wxv309j/FF3bTrE
+        eLC0cgyfR05wQrU+kAuVcQyy7uuTUM+tGcLfoZz7m+sP+Xefuxynexu325KMHzk58X4ltyXjXx3pQZLbfH4Sth4xZ2Y+dE+BWi9NKIem+SXVw6YNHG/Zse7ytsuN/x5b
+        Cd7F9EwJjO3vyg4RufnJ3hrt2c89vyx17DdfDpZjSlgHknPfBf96K6lrxp6HadPlKeUUpOh5zvtOmscYrh/BD9PH9UJ87b6+eXURzmc4TYZ4b7v8sM+F5c3gOr4IkTKD
+        ru43xbrB7fkyxJoeZfX4S3xO7yLJJ502AAYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBpj/YtL/
+        wzhsGVTq69al4K7nLQ0yLBV3UnSsPbfS5PrMpVDxDUNVjljWynEltFDitS72yx3DuPxLax13IpWxxtZOdO2Lcc/kYjb+mWHJsQ7tLnbanJb5APPundF7I/fsUnnq+rz+
+        A1BLBwjjD+9VaQIAAFs7AABQSwECAAAUAAgICADcSf9c4w/vVWkCAABbOwAACgAAAAAAAAAAAAAAAAAAAAAAc3RhdGUuanNvblBLBQYAAAAAAQABADgAAAChAgAAAAAA
+        AAAAAAAAAA==
+        AAAAAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {BCA5E484-E0C4-4272-B805-97BEC3E14A2C}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAzQAAAAEAAAAAABAA
+        IQAAAAUAAAAAAAAAAQAAAEfrt5OmPGxAj+21oPfGsD5mZmZmZmb6PwEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAHjhV6+ZZ8BAuPlg3gv9
+        1j8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D+amZmZmZnpPwEEAAAAAAAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAA
+        APsCAAD8AQAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {AD60FD73-CD74-4F3E-A9A6-667211D0E2EF}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST3: kHs Frequency Shifter (Kilohearts)" "kHs Frequency Shifter.vst3" 0 "" 777807409{09244B3800AB483100F0E31600C1CE74} ""
+        MWZcLu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAQAIAAAEAAAD//wAA
+        MAIAAAEAAAABAAAAKAIAAFBLAwQUAAgICADcSf9cAAAAAAAAAAAAAAAACgAAAHN0YXRlLmpzb27t20tOwzAQBuB1cgpksQRUWooQO3ZsOAFCkZtMUqt+BD9aStW7YztN
+        H6JH+DeRPJ75/cV778qCKfKcvd7syqJgPPilsXHF3iT9cN2QvXnnqufWGSW4ZmWxv4sza7JOGD2OtcYq7tPYI7tLhV6GTuhcmMwnQ801q1SYPo0hvSVHfszouV+m/aFZ
+        c0WnFTXCU5PW3gYa55VpSI7jDbU8SO8O64JJUZN2VElT53NbLh3luJin+UKeBQ7VW7/t86HHrKGuhBZK/A795zEhx2+q+CO1SPcRV52oq42xK25N0P8m4kWS9lUXN/u0
+        N4n/kn+mYJ00i9h59OugPkwTJPcx2A3NB89F+TPVijwT9zy33XCnOTWVnAm2posSVxHnzzJjrQ52TZelq9d0flEnCctbhwOAAQYYYIABBhhggAEGGGCAAQYYYIABBhhg
+        gAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIAB5iomfb9y26lpfF9Xjg/u3FK0+fD76fPLw2w2m+fk00Rr6TuQrrdVbiWbHh6W+/IPUEsHCEdp
+        idqiAQAANTkAAFBLAQIAABQACAgIANxJ/1xHaYnaogEAADU5AAAKAAAAAAAAAAAAAAAAAAAAAABzdGF0ZS5qc29uUEsFBgAAAAABAAEAOAAAANoBAAAAAAAAAAAAAAAA
+        AAAAAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {45E9F6BB-AD5A-4D24-AD93-06E97592DE66}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST3: kHs Reverb (Kilohearts)" "kHs Reverb.vst3" 0 "" 1304368705{57C6C07F0065421600BF482A003AFA7A} ""
+        QRa/Te5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAbAIAAAEAAAD//wAA
+        XAIAAAEAAAABAAAAVAIAAFBLAwQUAAgICADcSf9cAAAAAAAAAAAAAAAACgAAAHN0YXRlLmpzb27t20lu2zAUBuC1dIpA6DIwLMVRne6666YnKAqDlp4VIhwEDnbSIHcv
+        B9FDmyP8GwP8yff4+WnN97pqJDnWfLt7r6uqYd49axNWzXdBr0yNZO5+MDkzY7XkTDV19XEfao5kLNeqlB20kczFsra5j8Es/MRVCtabx5zZ8SUG3aY0mQ1ZcqXHzNxz
+        3M+HFZN0WdHIHY1x7YynUi/1SKKUEzPiLZ5Yr7pyIf+TerSrh2371HZ9jsfwf7iaFkuOaGCp+HHVbZ6+rvuHkh+YF84ul1SN4AMpSzuhh/RnDkxYSmeDQLG9uFLm9It7
+        m5Pi3CvnkisuA3D8t41P7U+7MJ2BxyGH1cSH3UmbF2a0V/9VhK9Dyu2msDmnCYQBpQlVzST0Ppw8+5WXP/XoBXOhsc2HF89N/CtmVaoJe46ZKX+o1DVGVnsz0E3EZMC5
+        q54hG7w50m306ZiuB3WRNGlruQAYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhgPsXE39/p2OVQ
+        eV9Xlwd3Jz7mZ4zLQ0jJX9O9q27b9n2/zem53tCRzD4+aKw/6r9QSwcIghAXSM4BAACNOQAAUEsBAgAAFAAICAgA3En/XIIQF0jOAQAAjTkAAAoAAAAAAAAAAAAAAAAA
+        AAAAAHN0YXRlLmpzb25QSwUGAAAAAAEAAQA4AAAABgIAAAAAAAAAAAAAAAA=
+        AAAAAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {37EE19BA-96A0-40DE-BAD5-E9263ABB146F}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 2.54721874929965
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {770E153F-54B0-476C-B765-A640F3491057}
+      IID 141
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.45278125
+      PLAYRATE 1.00000000027495 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB3AF175-CD22-4910-A2BA-53366C0DCB19}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 3
+      SNAPOFFS 0
+      LENGTH 2.65283333323896
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {06363903-560E-4BB0-983E-CEFD6B96FE3D}
+      IID 143
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 6.17894791666663
+      PLAYRATE 1.00000000003556 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {75DF22E0-DEB8-4ACF-BF64-713043A7EA33}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 2.77847206220031
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0.07771822065115 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E68AF4D4-37C3-4549-8B09-58B8A6E4116C}
+      IID 145
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 12.13570502054375
+      PLAYRATE 1.00000000019258 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {77B8979F-F498-41B6-B621-91855AE2292D}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 2.82007514685392
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0.1813425142318 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4866D207-4D46-4AB2-8269-21B4A380EB73}
+      IID 147
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 0.653131 0 1 -1
+      SOFFS 17.7342998497416
+      PLAYRATE 1.00000000119091 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {11690101-EE5E-426A-A179-76B6E61F3845}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 2.78840624913573
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D0787F40-F5A3-4338-AECE-C57D9C514EF1}
+      IID 149
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 23.30929166666623
+      PLAYRATE 1.00000000030987 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9F25D7E2-AAEC-48B9-94CF-B9E9C88AB49F}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 15
+      SNAPOFFS 0
+      LENGTH 2.54721874929965
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CC5B66A7-4E43-4278-8CA6-09AB8725BD7D}
+      IID 162
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.45278125
+      PLAYRATE 1.00000000027495 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4A74D700-06A6-43A9-B93A-EC66C8697893}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 18
+      SNAPOFFS 0
+      LENGTH 2.65283333323896
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {46AC9D14-5158-433E-9EF9-0FD209E849E2}
+      IID 163
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 6.17894791666663
+      PLAYRATE 1.00000000003556 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CBF013F5-22A8-42BB-9DD6-D156CAABA447}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 21
+      SNAPOFFS 0
+      LENGTH 2.77847206220031
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0.07771822065115 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F42BD57F-8D4B-49AF-B3C8-DD9391EDCA97}
+      IID 164
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 12.13570502054375
+      PLAYRATE 1.00000000019258 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3D293C04-0AF1-4DE0-80FE-685BEBDA705C}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 24
+      SNAPOFFS 0
+      LENGTH 2.82007514685392
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0.1813425142318 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {74693FC0-6C8F-47E4-B0F9-6DEB1A0C707A}
+      IID 165
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 0.653131 0 1 -1
+      SOFFS 17.7342998497416
+      PLAYRATE 1.00000000119091 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9398CB1E-A63C-4B74-A9A0-718977028602}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 27
+      SNAPOFFS 0
+      LENGTH 2.78840624913573
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {866FA481-9602-471A-A736-4AECEC27C8EB}
+      IID 166
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 23.30929166666623
+      PLAYRATE 1.00000000030987 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {048D4808-9884-4DDF-A419-CD01C3616BFC}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 42.1866458337754
+      SNAPOFFS 0
+      LENGTH 2.8133541662246
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7688CC1C-58BE-4617-903E-DA9B1476D27C}
+      IID 152
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 33.42576634715593
+      PLAYRATE 1.00000000015714 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {84B8DC83-C659-4797-BA07-01A6CCDA6B3E}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+  >
+  <TRACK {876DD9F4-6159-4EC6-939C-6E39F1AC3700}
+    NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2)"
+    PEAKCOL 24475980
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1.58799079112731 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 4128 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {876DD9F4-6159-4EC6-939C-6E39F1AC3700}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT -2236 680 415 570
+      SHOW 1
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST3: kHs Convolver (Kilohearts)" "kHs Convolver.vst3" 0 "" 1598026044{E0D650B2009C40D400AEEBEF00625EDB} ""
+        PPE/X+5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAGQMAAAEAAAD//wAA
+        CQMAAAEAAAABAAAAAQMAAFBLAwQUAAgICADcSf9cAAAAAAAAAAAAAAAACgAAAHN0YXRlLmpzb27tm8lu2zAQhs/2UxhCj0FgB2m63IqiQHvopUVPRSBMpLFDhIvAxdng
+        dy8pihKDJm/w+2B49m+G4+M8r1eNYk/N583zerVqKPhbY6PUfJH8QLpnu/lOaiDrjBKkm/XqdBZjjmydMLqE7Y1V5FPYrjlLikGGg9CjYnuxzTrX3yXFxWVJMlh27EuO
+        gfxtsmdnTYoXiXvhuU+yt4FLvDI9yxLujR4DpmJKPFQ4TjxxJe6Z+xvq7ir/yNLGbPQ45YsEQbEln6eRvWIVobiW3/nHYVQs8dnQs44D0yW+Etvd1eTjHnXXpibGxlLm
+        qD6NON4K1TpP1leMo5J1X3dCPbcmZK/z7XZ3NX4+VNb8DMn4/uPlbrv7lMs3ltMjjrX3JOOPPKn42JLbMv4/aQPuycc1+GqkcY6Dqh3nac2D6MlT66TxZRA0b1ftNtWx
+        vGfLusvVly34O0qpgy6ObBpqlH+oIUTWzS92g9GO3Wz5PVDHbvPtYeA4Jtae5Gx7rYvzvaSuGR2up9rLluWBJO1pfpKDNDdRXe/HT9MHST7+EVy9FOqFOrfyPKHEJz3k
+        nT8VOmeC7fiFipQJunr6pOuCPfJLFWu6kdX/oujnKS8kudOpAGAAAxjAAAYwgAEMYAADGMAABjCAAQxgAAMYwAAGMIABDGAAAxjAAAYwgAEMYAADGMAABjCAAQxgAAMY
+        wAAGMIABDGAAAxjAAAYwr8Kk7+vRbXEq93XrcnDX856C9MvFnRQda8etNPl0czlbfIOhukosubJeCS2UeKqP/bIhjOnv28FyJ9KFa5QOomvvjb0jG6fxX8RAlrVvD9E4
+        5LHMDczVO6OPRh7ZpsvV9Wn9D1BLBwhHTHMbewIAAHY7AABQSwECAAAUAAgICADcSf9cR0xzG3sCAAB2OwAACgAAAAAAAAAAAAAAAAAAAAAAc3RhdGUuanNvblBLBQYA
+        AAAAAQABADgAAACzAgAAAAAAAAAAAAAAAA==
+        AAAAAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {6D1E4EA7-35CF-4CA1-9F33-918CBB9DD64B}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAzQAAAAEAAAAAABAA
+        IQAAAAUAAAAAAAAAAQAAAEfrt5OmPGxAj+21oPfGsD5mZmZmZmb6PwEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAACl2z0+A47hAiUybLunc
+        4z8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D+amZmZmZnpPwEEAAAAAAAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAA
+        APsCAAD8AQAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {427F0C75-3261-43D5-AF55-4FA30D4366AC}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST3: kHs Frequency Shifter (Kilohearts)" "kHs Frequency Shifter.vst3" 0 "" 777807409{09244B3800AB483100F0E31600C1CE74} ""
+        MWZcLu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAQAIAAAEAAAD//wAA
+        MAIAAAEAAAABAAAAKAIAAFBLAwQUAAgICADcSf9cAAAAAAAAAAAAAAAACgAAAHN0YXRlLmpzb27t20tOwzAQBuB1cgpksQRUWooQO3ZsOAFCkZtMUqt+BD9aStW7YztN
+        H6JH+DeRPJ75/cV778qCKfKcvd7syqJgPPilsXHF3iT9cN2QvXnnqufWGSW4ZmWxv4sza7JOGD2OtcYq7tPYI7tLhV6GTuhcmMwnQ801q1SYPo0hvSVHfszouV+m/aFZ
+        c0WnFTXCU5PW3gYa55VpSI7jDbU8SO8O64JJUZN2VElT53NbLh3luJin+UKeBQ7VW7/t86HHrKGuhBZK/A795zEhx2+q+CO1SPcRV52oq42xK25N0P8m4kWS9lUXN/u0
+        N4n/kn+mYJ00i9h59OugPkwTJPcx2A3NB89F+TPVijwT9zy33XCnOTWVnAm2posSVxHnzzJjrQ52TZelq9d0flEnCctbhwOAAQYYYIABBhhggAEGGGCAAQYYYIABBhhg
+        gAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIAB5iomfb9y26lpfF9Xjg/u3FK0+fD76fPLw2w2m+fk00Rr6TuQrrdVbiWbHh6W+/IPUEsHCEdp
+        idqiAQAANTkAAFBLAQIAABQACAgIANxJ/1xHaYnaogEAADU5AAAKAAAAAAAAAAAAAAAAAAAAAABzdGF0ZS5qc29uUEsFBgAAAAABAAEAOAAAANoBAAAAAAAAAAAAAAAA
+        AAAAAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D2359C60-BE53-4B1B-841B-E9A5A8B0FBF4}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST3: kHs Reverb (Kilohearts)" "kHs Reverb.vst3" 0 "" 1304368705{57C6C07F0065421600BF482A003AFA7A} ""
+        QRa/Te5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAbAIAAAEAAAD//wAA
+        XAIAAAEAAAABAAAAVAIAAFBLAwQUAAgICADcSf9cAAAAAAAAAAAAAAAACgAAAHN0YXRlLmpzb27t20lu2zAUBuC1dIpA6DIwLMVRne6666YnKAqDlp4VIhwEDnbSIHcv
+        B9FDmyP8GwP8yff4+WnN97pqJDnWfLt7r6uqYd49axNWzXdBr0yNZO5+MDkzY7XkTDV19XEfao5kLNeqlB20kczFsra5j8Es/MRVCtabx5zZ8SUG3aY0mQ1ZcqXHzNxz
+        3M+HFZN0WdHIHY1x7YynUi/1SKKUEzPiLZ5Yr7pyIf+TerSrh2371HZ9jsfwf7iaFkuOaGCp+HHVbZ6+rvuHkh+YF84ul1SN4AMpSzuhh/RnDkxYSmeDQLG9uFLm9It7
+        m5Pi3CvnkisuA3D8t41P7U+7MJ2BxyGH1cSH3UmbF2a0V/9VhK9Dyu2msDmnCYQBpQlVzST0Ppw8+5WXP/XoBXOhsc2HF89N/CtmVaoJe46ZKX+o1DVGVnsz0E3EZMC5
+        q54hG7w50m306ZiuB3WRNGlruQAYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhgPsXE39/p2OVQ
+        eV9Xlwd3Jz7mZ4zLQ0jJX9O9q27b9n2/zem53tCRzD4+aKw/6r9QSwcIghAXSM4BAACNOQAAUEsBAgAAFAAICAgA3En/XIIQF0jOAQAAjTkAAAoAAAAAAAAAAAAAAAAA
+        AAAAAHN0YXRlLmpzb25QSwUGAAAAAAEAAQA4AAAABgIAAAAAAAAAAAAAAAA=
+        AAAAAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {323474F3-377F-4FCD-A0D8-2F882256D975}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 30
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {324C4D83-0819-44AC-BDD9-B21CB9FFA4AF}
+      IID 141
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.62508784181791
+      PLAYRATE 0.04749824316364 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {743F07C6-AF33-4B57-A2B8-B08840AFC809}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 42.1866458337754
+      SNAPOFFS 0
+      LENGTH 2.8133541662246
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {589C7B8D-D72A-481F-AE3B-B9766AD02789}
+      IID 152
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 33.42576634715593
+      PLAYRATE 1.00000000015714 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {97185037-020C-40EA-855C-593D5A53581C}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 49.84716666676104
+      SNAPOFFS 0
+      LENGTH 1.27847206220031
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0.03576086842051 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E9AC8065-DB06-4470-AE37-CACE4B95AEF1}
+      IID 145
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 12.13570502054375
+      PLAYRATE 2.17327554108105 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {401B8D7D-D749-4205-ABC0-502EDEA5FA8C}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 52.84716666676104
+      SNAPOFFS 0
+      LENGTH 1.32007514685392
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0.08488630041383 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3108B360-9FD1-4313-AD90-8A6FCB7FD92D}
+      IID 147
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 0.653131 0 1 -1
+      SOFFS 17.7342998497416
+      PLAYRATE 2.13629895005094 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0F6248EB-AE95-4B8C-8E92-27750CF23032}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 55.84716666676104
+      SNAPOFFS 0
+      LENGTH 1.28840624913573
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EF103CE7-FB99-4026-95A4-CED5A1E1CFAD}
+      IID 149
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 23.30929166666623
+      PLAYRATE 2.16422906351956 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4629AA4D-E7AF-46E8-BC08-ABEFD2AE230D}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 58.84716666676104
+      SNAPOFFS 0
+      LENGTH 1.04721874929965
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E31D6AD0-96FC-439E-9F4A-2E6B68154886}
+      IID 162
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.45278125
+      PLAYRATE 2.43236549355472 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D020A55D-35BE-4ABD-B683-9FB720F3CA79}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 61.84716666676104
+      SNAPOFFS 0
+      LENGTH 1.15283333323896
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B142E7FC-33C2-4CE7-84A3-107F0DDE7C95}
+      IID 163
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 6.17894791666663
+      PLAYRATE 2.30114211382142 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EB384513-2474-424A-8EC0-CC9E6E8F6F31}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 64.84716666676104
+      SNAPOFFS 0
+      LENGTH 1.27847206220031
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0.03576086842051 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {629D33DB-069E-4E65-97E5-4B48996BD3DD}
+      IID 164
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 12.13570502054375
+      PLAYRATE 2.17327554108105 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {41203682-9B1E-440A-8083-2902E3654EF1}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 67.84716666676104
+      SNAPOFFS 0
+      LENGTH 1.32007514685392
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0.08488630041383 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B78666EE-22D5-46BD-812D-DA6C7C850B63}
+      IID 165
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 0.653131 0 1 -1
+      SOFFS 17.7342998497416
+      PLAYRATE 2.13629895005094 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {72652601-9915-43E3-BDC7-41E2FB26B396}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 70.84716666676104
+      SNAPOFFS 0
+      LENGTH 1.28840624913573
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {673FC655-52BA-4780-968F-05A821B25006}
+      IID 166
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 23.30929166666623
+      PLAYRATE 2.16422906351956 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4D2FAE4C-8991-44EA-94C9-EBDFAE82F6FB}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+  >
+  <TRACK {A0BAE32D-87CB-403F-A335-087DD5106C26}
+    NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2)"
+    PEAKCOL 24475980
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1.58799079112731 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 4128 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A0BAE32D-87CB-403F-A335-087DD5106C26}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT -2236 680 415 570
+      SHOW 1
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST3: kHs Convolver (Kilohearts)" "kHs Convolver.vst3" 0 "" 1598026044{E0D650B2009C40D400AEEBEF00625EDB} ""
+        PPE/X+5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAGQMAAAEAAAD//wAA
+        CQMAAAEAAAABAAAAAQMAAFBLAwQUAAgICADcSf9cAAAAAAAAAAAAAAAACgAAAHN0YXRlLmpzb27tm8lu2zAQhs/2UxhCj0FgB2m63IqiQHvopUVPRSBMpLFDhIvAxdng
+        dy8pihKDJm/w+2B49m+G4+M8r1eNYk/N583zerVqKPhbY6PUfJH8QLpnu/lOaiDrjBKkm/XqdBZjjmydMLqE7Y1V5FPYrjlLikGGg9CjYnuxzTrX3yXFxWVJMlh27EuO
+        gfxtsmdnTYoXiXvhuU+yt4FLvDI9yxLujR4DpmJKPFQ4TjxxJe6Z+xvq7ir/yNLGbPQ45YsEQbEln6eRvWIVobiW3/nHYVQs8dnQs44D0yW+Etvd1eTjHnXXpibGxlLm
+        qD6NON4K1TpP1leMo5J1X3dCPbcmZK/z7XZ3NX4+VNb8DMn4/uPlbrv7lMs3ltMjjrX3JOOPPKn42JLbMv4/aQPuycc1+GqkcY6Dqh3nac2D6MlT66TxZRA0b1ftNtWx
+        vGfLusvVly34O0qpgy6ObBpqlH+oIUTWzS92g9GO3Wz5PVDHbvPtYeA4Jtae5Gx7rYvzvaSuGR2up9rLluWBJO1pfpKDNDdRXe/HT9MHST7+EVy9FOqFOrfyPKHEJz3k
+        nT8VOmeC7fiFipQJunr6pOuCPfJLFWu6kdX/oujnKS8kudOpAGAAAxjAAAYwgAEMYAADGMAABjCAAQxgAAMYwAAGMIABDGAAAxjAAAYwgAEMYAADGMAABjCAAQxgAAMY
+        wAAGMIABDGAAAxjAAAYwr8Kk7+vRbXEq93XrcnDX856C9MvFnRQda8etNPl0czlbfIOhukosubJeCS2UeKqP/bIhjOnv28FyJ9KFa5QOomvvjb0jG6fxX8RAlrVvD9E4
+        5LHMDczVO6OPRh7ZpsvV9Wn9D1BLBwhHTHMbewIAAHY7AABQSwECAAAUAAgICADcSf9cR0xzG3sCAAB2OwAACgAAAAAAAAAAAAAAAAAAAAAAc3RhdGUuanNvblBLBQYA
+        AAAAAQABADgAAACzAgAAAAAAAAAAAAAAAA==
+        AAAAAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {5177E4ED-40D5-4AA4-A8F7-A65986E649D9}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAzQAAAAEAAAAAABAA
+        IQAAAAUAAAAAAAAAAQAAAEfrt5OmPGxAj+21oPfGsD5mZmZmZmb6PwEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAACl2z0+A47hAiUybLunc
+        4z8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D+amZmZmZnpPwEEAAAAAAAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAA
+        APsCAAD8AQAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {877AEDED-9DE7-4D79-B609-6955DA6D8902}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST3: kHs Frequency Shifter (Kilohearts)" "kHs Frequency Shifter.vst3" 0 "" 777807409{09244B3800AB483100F0E31600C1CE74} ""
+        MWZcLu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAQAIAAAEAAAD//wAA
+        MAIAAAEAAAABAAAAKAIAAFBLAwQUAAgICADcSf9cAAAAAAAAAAAAAAAACgAAAHN0YXRlLmpzb27t20tOwzAQBuB1cgpksQRUWooQO3ZsOAFCkZtMUqt+BD9aStW7YztN
+        H6JH+DeRPJ75/cV778qCKfKcvd7syqJgPPilsXHF3iT9cN2QvXnnqufWGSW4ZmWxv4sza7JOGD2OtcYq7tPYI7tLhV6GTuhcmMwnQ801q1SYPo0hvSVHfszouV+m/aFZ
+        c0WnFTXCU5PW3gYa55VpSI7jDbU8SO8O64JJUZN2VElT53NbLh3luJin+UKeBQ7VW7/t86HHrKGuhBZK/A795zEhx2+q+CO1SPcRV52oq42xK25N0P8m4kWS9lUXN/u0
+        N4n/kn+mYJ00i9h59OugPkwTJPcx2A3NB89F+TPVijwT9zy33XCnOTWVnAm2posSVxHnzzJjrQ52TZelq9d0flEnCctbhwOAAQYYYIABBhhggAEGGGCAAQYYYIABBhhg
+        gAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIAB5iomfb9y26lpfF9Xjg/u3FK0+fD76fPLw2w2m+fk00Rr6TuQrrdVbiWbHh6W+/IPUEsHCEdp
+        idqiAQAANTkAAFBLAQIAABQACAgIANxJ/1xHaYnaogEAADU5AAAKAAAAAAAAAAAAAAAAAAAAAABzdGF0ZS5qc29uUEsFBgAAAAABAAEAOAAAANoBAAAAAAAAAAAAAAAA
+        AAAAAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {879484F3-021D-44C1-86F0-CF3779AB2985}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST3: kHs Reverb (Kilohearts)" "kHs Reverb.vst3" 0 "" 1304368705{57C6C07F0065421600BF482A003AFA7A} ""
+        QRa/Te5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAbAIAAAEAAAD//wAA
+        XAIAAAEAAAABAAAAVAIAAFBLAwQUAAgICADcSf9cAAAAAAAAAAAAAAAACgAAAHN0YXRlLmpzb27t20lu2zAUBuC1dIpA6DIwLMVRne6666YnKAqDlp4VIhwEDnbSIHcv
+        B9FDmyP8GwP8yff4+WnN97pqJDnWfLt7r6uqYd49axNWzXdBr0yNZO5+MDkzY7XkTDV19XEfao5kLNeqlB20kczFsra5j8Es/MRVCtabx5zZ8SUG3aY0mQ1ZcqXHzNxz
+        3M+HFZN0WdHIHY1x7YynUi/1SKKUEzPiLZ5Yr7pyIf+TerSrh2371HZ9jsfwf7iaFkuOaGCp+HHVbZ6+rvuHkh+YF84ul1SN4AMpSzuhh/RnDkxYSmeDQLG9uFLm9It7
+        m5Pi3CvnkisuA3D8t41P7U+7MJ2BxyGH1cSH3UmbF2a0V/9VhK9Dyu2msDmnCYQBpQlVzST0Ppw8+5WXP/XoBXOhsc2HF89N/CtmVaoJe46ZKX+o1DVGVnsz0E3EZMC5
+        q54hG7w50m306ZiuB3WRNGlruQAYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhgPsXE39/p2OVQ
+        eV9Xlwd3Jz7mZ4zLQ0jJX9O9q27b9n2/zem53tCRzD4+aKw/6r9QSwcIghAXSM4BAACNOQAAUEsBAgAAFAAICAgA3En/XIIQF0jOAQAAjTkAAAoAAAAAAAAAAAAAAAAA
+        AAAAAHN0YXRlLmpzb25QSwUGAAAAAAEAAQA4AAAABgIAAAAAAAAAAAAAAAA=
+        AAAAAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {6172BAF3-4C2B-4A48-B0D6-7BA4972A6357}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 30
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3E40941D-8950-47AA-A05C-8908E1FD84DE}
+      IID 143
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 36.75583117816095
+      PLAYRATE 0.04629281954137 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {162BFE14-7A8E-4003-A186-B7AD52C82583}
+      <SOURCE SECTION
+        LENGTH 2.65283333333329
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 42.1866458337754
+      SNAPOFFS 0
+      LENGTH 2.8133541662246
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {72DAC178-B54F-4D6C-8A56-4163DEB0F990}
+      IID 152
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 33.42576634715593
+      PLAYRATE 1.00000000015714 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A7400E76-7A5C-42EB-808C-4F24EA1B6231}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 49.84716666676104
+      SNAPOFFS 0
+      LENGTH 1.27847206220031
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0.03576086842051 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DBDE23F2-F4DF-4A1C-95F5-140EA1C41769}
+      IID 145
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 12.13570502054375
+      PLAYRATE 2.17327554108105 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7FCF2EA1-48A1-48AD-A3CD-7E9E24D77D69}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 52.84716666676104
+      SNAPOFFS 0
+      LENGTH 1.32007514685392
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0.08488630041383 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D78E568B-6A55-493C-B709-CF53C12706E9}
+      IID 147
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 0.653131 0 1 -1
+      SOFFS 17.7342998497416
+      PLAYRATE 2.13629895005094 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B9E23B7-E45A-44F1-8ECF-8D194A7A4B92}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 55.84716666676104
+      SNAPOFFS 0
+      LENGTH 1.28840624913573
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AC9D85B4-228C-498F-ABC2-9AB2CD6C1D2F}
+      IID 149
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 23.30929166666623
+      PLAYRATE 2.16422906351956 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4556D3CA-06A7-4DE5-A97F-0E80546E45A8}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 58.84716666676104
+      SNAPOFFS 0
+      LENGTH 1.04721874929965
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E7DB7C5F-AB02-43FD-84D5-326669B623D8}
+      IID 162
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.45278125
+      PLAYRATE 2.43236549355472 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F250EA18-2151-430B-9D34-9129140A9B17}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 61.84716666676104
+      SNAPOFFS 0
+      LENGTH 1.15283333323896
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {26D04F86-0991-4202-9292-22BA75697398}
+      IID 163
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 6.17894791666663
+      PLAYRATE 2.30114211382142 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C3444FCB-29FD-454F-97EB-A187CC3AEB53}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 64.84716666676104
+      SNAPOFFS 0
+      LENGTH 1.27847206220031
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0.03576086842051 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A1ADC129-0BB7-40BC-8285-EAFD14D1CCDD}
+      IID 164
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 12.13570502054375
+      PLAYRATE 2.17327554108105 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A0C4987B-89DA-4826-B390-541C8F782335}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 67.84716666676104
+      SNAPOFFS 0
+      LENGTH 1.32007514685392
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0.08488630041383 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {06A0A43B-73C4-492D-B3B8-9EAC3DD41CFF}
+      IID 165
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 0.653131 0 1 -1
+      SOFFS 17.7342998497416
+      PLAYRATE 2.13629895005094 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {18549F45-95AF-46EA-92A8-3CBDFDD34B2E}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+    <ITEM
+      POSITION 70.84716666676104
+      SNAPOFFS 0
+      LENGTH 1.28840624913573
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6F8C4EE0-B905-4324-A494-D6D21B441139}
+      IID 166
+      NAME "THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 23.30929166666623
+      PLAYRATE 2.16422906351956 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9A971C1F-8208-4042-95E0-8B77D81D1532}
+      <SOURCE WAVE
+        FILE "Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Downloads\SoundQ Audio\THUN_Lightning Flashes Strikes Sharp Whipping Zaps 02_PSE_SMV1_mz9LT(2).wav"
+      >
+    >
+  >
+  <EXTENSIONS
+    <SWSAUTOCOLOR
+      {00000000-0000-0000-0000-000000000000} 0 "" "" ""
+      {44907FFB-FBA2-41BB-B124-043EE6E7207E} 53911372 "" "" ""
+      {2ADB5414-3E3B-495C-A3F2-DBF6D4F8150F} 53911372 "" "" ""
+      {2580A4AA-24BB-4D41-B388-976BCEA12898} 53911372 "" "" ""
+      {8B44CA7A-1DA5-4585-A3C6-4E5D8C7E360D} 53911372 "" "" ""
+      {399F0A9E-3DD7-4FE1-B009-A6430697CDA6} 53911372 "" "" ""
+      {1D336A81-6E18-4AF6-99F8-8FDDA43A177F} 58639533 "" "" ""
+      {164D34CA-81EF-4530-A864-BCE2805F8880} 58639533 "" "" ""
+      {A9EC78FA-6A53-416F-8417-01D7A450A8A1} 58639533 "" "" ""
+      {07CCC337-87C5-4B26-B5B2-3EFE1A405406} 58639533 "" "" ""
+      {8644CA96-8CCC-40D5-9947-55C19241C98A} 59324159 "" "" ""
+      {C862B629-0EEF-4994-A38C-7A8A52493A0A} 59994335 "" "" ""
+      {D3319D12-C79D-48FA-B298-8D7845227489} 59994335 "" "" ""
+      {19486B3C-B79B-42BE-8469-10D6AC581419} 53037315 "" "" ""
+      {DA5637AD-E272-4A8A-8B82-7CC042FBC636} 53037315 "" "" ""
+      {55A4C03E-6207-464E-A398-BA15FCF62C24} 53037315 "" "" ""
+      {FB4F257C-E352-4B21-9BAE-B86EBB2720E4} 59994335 "" "" ""
+      {F062F17D-B9FE-4CF0-8A51-E7AB0869DC8C} 59994335 "" "" ""
+      {0FB005A2-FF22-4427-8BC8-2CA90B564DD1} 55433293 "" "" ""
+      {1F0DB679-263F-42D9-BF4C-6C8079D5818B} 55299231 "" "" ""
+      {42320C20-99CC-49ED-AED3-8A9AC149EC3C} 55343477 "" "" ""
+      {7EACDD6A-A3C9-4AF2-85CE-D1144BCB7195} 55343477 "" "" ""
+      {876DD9F4-6159-4EC6-939C-6E39F1AC3700} 55343477 "" "" ""
+      {A0BAE32D-87CB-403F-A335-087DD5106C26} 55343477 "" "" ""
+    >
+  >
+>
