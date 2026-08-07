@@ -1,0 +1,2682 @@
+<REAPER_PROJECT 0.1 "7.59/win64" 1786110199 0
+  <NOTES 0 2
+  >
+  UNDO_FTS 1786110199
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3455 8 1 8 1 0 0 0
+  TIMEMODE 0 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 256
+  PANMODE 5
+  CURSOR 0
+  ZOOM 313.1189099982206 0 0
+  VZOOMEX 2 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Audio" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN $track_$itemnum
+  RENDER_FMT 0 1 0
+  RENDER_1X 0
+  RENDER_RANGE 4 0 0 2 1000
+  RENDER_RESAMPLE 3 0 0
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 576
+  RENDER_DITHER 0
+  RENDER_NORMALIZE 50688 0.063096 1 0.002 0.002 1 1
+  RENDER_TRIM 0.01 0.000178 0.002 0.005
+  <RENDER_METADATA
+    TAG APE:Album $project
+    TAG APE:Artist "Alexander Hamparsomian"
+    TAG "APE:Record Date" $year
+    TAG APE:Title $track
+    TAG APE:Year $year
+    TAG ASWG:artist "Alexander Hamparsomian"
+    TAG ASWG:project $track
+    TAG BWF:OriginationDate $year
+    TAG CAFINFO:album $project
+    TAG CAFINFO:artist "Alexander Hamparsomian"
+    TAG CAFINFO:title $track
+    TAG CAFINFO:year $year
+    TAG CART:Artist "Alexander Hamparsomian"
+    TAG CART:StartDate $year
+    TAG CART:Title $track
+    TAG CUE:DISC_TITLE $track
+    TAG ID3:TALB $project
+    TAG ID3:TDRC $year
+    TAG ID3:TIT2 $track
+    TAG ID3:TPE1 "Alexander Hamparsomian"
+    TAG ID3:TYER $year
+    TAG IFF:AUTH "Alexander Hamparsomian"
+    TAG IFF:NAME $track
+    TAG INFO:IART "Alexander Hamparsomian"
+    TAG INFO:ICRD $year
+    TAG INFO:INAM $track
+    TAG INFO:IPRD $project
+    TAG IXML:PROJECT $track
+    TAG VORBIS:ALBUM $project
+    TAG VORBIS:ARTIST "Alexander Hamparsomian"
+    TAG VORBIS:DATE $year
+    TAG VORBIS:TITLE $track
+    TAG XMP:dc/date $year
+    TAG XMP:dc/title $track
+    TAG XMP:dm/album $project
+    TAG XMP:dm/artist "Alexander Hamparsomian"
+  >
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 48000 1 0
+  <RENDER_CFG
+    ZXZhdxgEAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 800 1600 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {ADADE53B-0FE7-4BD2-B26A-A371D7E0CAC2}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {F208AAE6-6D03-4340-BB46-14AAA4431149}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  MARKER 1 0 =START 0 0 1 R {CC87F731-8C6C-4114-9F8D-5ACA0BAFD79E} 0
+  MARKER 2 0.00530594318204 =END 0 0 1 R {0E8620B8-9B08-47DC-8EFC-810BD9F668EA} 0
+  <PROJBAY
+  >
+  <TRACK {BDEE7FA9-E5C6-4A6E-AE13-93FD84CB648B}
+    NAME sfx_tarot_tarot
+    PEAKCOL 32987776
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 4128 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {BDEE7FA9-E5C6-4A6E-AE13-93FD84CB648B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {777354A5-825E-40B6-9952-3EA3C6250E35}
+    NAME VIDEO
+    PEAKCOL 27178331
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 4128 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {777354A5-825E-40B6-9952-3EA3C6250E35}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 17.96710310187047
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {220A7813-2A50-4142-ABA3-2BF22C3059EA}
+      IID 2
+      NAME "tarot flip hover enter.mp4"
+      VOLPAN 1 0 1 -1
+      SOFFS 3.36619689812954
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6F74F569-7DD3-43B0-A4BF-2A4C7307451F}
+      <SOURCE VIDEO
+        FILE "Audio\tarot flip hover enter.mp4"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\bandi\Videos\Screen Recordings\Demon Table\clips for design\tarot flip hover enter.mp4"
+      >
+    >
+  >
+  <TRACK {7E094DB6-5B8A-4975-96C9-DABD65707206}
+    NAME "Card Recording"
+    PEAKCOL 29540785
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 1 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7E094DB6-5B8A-4975-96C9-DABD65707206}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.07989583333333
+      SNAPOFFS 0
+      LENGTH 17.24606253279335
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0.001 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DCF04BA6-00DD-4350-84F6-B58446A0D432}
+      IID 2
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {85984E2B-AFCE-422D-B3DC-B3BDF3361DD8}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 17.32595836612668
+      SNAPOFFS 0
+      LENGTH 22.08869439550474
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F07AFBC5-D59C-40E6-BF49-D7EAA6926D97}
+      IID 2
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 17.24606253279335
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {56001241-4369-40F1-A247-59373738282C}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 39.44703949356374
+      SNAPOFFS 0
+      LENGTH 6.24712414639848
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {470177AA-0B29-4EA7-8628-39940F5BD5B5}
+      IID 2
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 39.36714366023042
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {19E43D88-DF39-4078-9381-E660DE4B2194}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 49.70355666873047
+      SNAPOFFS 0
+      LENGTH 0.20460416666666
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FDCD0980-1041-4D2C-B0ED-186CF3C4F1DB}
+      IID 52
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 49.62366083539715
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {59035F8C-7DB5-48D7-8C07-B43E6A5DC23C}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 50.32239549355274
+      SNAPOFFS 0
+      LENGTH 1.80013184895008
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {413351A9-7818-4D3F-808E-28E9C5B98A4A}
+      IID 2
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 50.24249966021942
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F5C16748-ADA6-443A-BE58-D7B0D66C8847}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 55.39736631973747
+      SNAPOFFS 0
+      LENGTH 0.27298585722768
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {708A984B-7EA2-4DD2-B07C-1C533A25C18B}
+      IID 63
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 55.34704148527514
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB8A7F6D-F0E3-406B-A1C5-2E00F84F8884}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 56.31734548640414
+      SNAPOFFS 0
+      LENGTH 0.27298585722769
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EDD2960F-A6EB-4E46-8915-BCD28A033C55}
+      IID 65
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 56.26702065194181
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2C9AC853-25E4-4CF6-A9F3-C56188C3620F}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 57.13367939034923
+      SNAPOFFS 0
+      LENGTH 0.27298585722769
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AFAB453A-9057-4923-8F67-19A15749F09B}
+      IID 67
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 57.08862481860849
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5087909A-C1FF-4058-97F0-16D1C30E2215}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 58.13990855701591
+      SNAPOFFS 0
+      LENGTH 0.27298585722769
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5518EDCB-EA06-4AC0-95DF-EDA6595AD1D9}
+      IID 69
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 58.09485398527517
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C4EBAB29-F7DE-40C9-B6AF-C0024B3ECAE3}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 58.67268452190826
+      SNAPOFFS 0
+      LENGTH 1.0977238218776
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {39C1DB2E-8365-443A-9117-7F332EC7300A}
+      IID 2
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 58.59278868857493
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C376F7A3-0A0C-4A66-8498-61556EAB4CBA}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 61.70114765251666
+      SNAPOFFS 0
+      LENGTH 0.89698567548918
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {25EC9D2D-2242-464D-8814-ACF1FC8D554B}
+      IID 2
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 61.62125181918334
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A2C2447C-1FD8-460B-9730-CAE19C3660D9}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 62.59813332800584
+      SNAPOFFS 0
+      LENGTH 4.99391416160343
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BDD1312E-840C-444A-8508-D869A2960A84}
+      IID 2
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 62.51823749467251
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {13915F08-DBC4-43B6-A784-B9CF0CE596A8}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 67.59204748960927
+      SNAPOFFS 0
+      LENGTH 2.06724818782655
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {19A8461D-AC1B-4800-848E-1FB2AEB7AD89}
+      IID 2
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 67.51215165627595
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6A91467D-92C6-4DF2-99E6-5F2508F7BDB4}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 69.65929567743582
+      SNAPOFFS 0
+      LENGTH 1.66076680257973
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0188495A-B41D-41F1-8F31-B01BFF351965}
+      IID 2
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 69.57939984410248
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {89769F8C-0F54-4772-8D48-6BB1FA6B6587}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 71.85429515776848
+      SNAPOFFS 0
+      LENGTH 2.86859720445592
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F704F843-BE64-41B9-ACA0-E64A3A3ADEA8}
+      IID 2
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 71.77439932443515
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E48F158D-45F2-445D-9727-5435EA4441F5}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 77.89344716714938
+      SNAPOFFS 0
+      LENGTH 8.37351653608391
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {08707126-8A81-4DEF-AE21-94B6FE6DEA4E}
+      IID 2
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 77.81355133381605
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B2FE969F-F42A-4B9F-A7F9-E88F135A659B}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 87.02185770440589
+      SNAPOFFS 0
+      LENGTH 53.08314463480376
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AB446AE8-8526-46A9-8C0A-B1FA30A3A85A}
+      IID 2
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 86.94196187107256
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B898BB58-6CC0-4A4F-805A-09D140E52005}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 141.10899102911151
+      SNAPOFFS 0
+      LENGTH 93.89531841285481
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AEDD0CA8-A2AE-4E81-9A9B-5901398C1CBB}
+      IID 2
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 141.02909519577818
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5BA88F0F-62A3-46D3-9435-FBBB503A48FD}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 244.84369340832851
+      SNAPOFFS 0
+      LENGTH 0.77728156637562
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A64701AE-247F-497E-A520-561B254F0174}
+      IID 2
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 244.76379757499518
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4E92A1E2-5C07-4D86-B807-0F8E91BA8947}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 245.75052190243244
+      SNAPOFFS 0
+      LENGTH 2.85003241004404
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 1.1 0 0.12954692772831 0 1 0 0
+      MUTE 0 0
+      COLOR 29442755 R
+      SEL 0
+      IGUID {2A9E4614-AA0E-43D1-AC87-F4B561D86B95}
+      IID 2
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 245.5410791413708
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {86D26576-4217-44C1-95B5-4E46AC11B7A6}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 248.47100738474816
+      SNAPOFFS 0
+      LENGTH 95.9014380268512
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1.1 0 0.12954692772831 0 1 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {24227B7B-EFFA-44B8-A2AB-72B1E7869A56}
+      IID 2
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 248.39111155141484
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9F25ADDB-A73B-43D3-BA27-AA3F4C884C20}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 344.48716711972162
+      SNAPOFFS 0
+      LENGTH 0.67370833333337
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2CD94636-890D-4075-B269-101AF803EEA0}
+      IID 179
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 344.31377874493273
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4639E39C-CEAF-4761-B330-E1F44CEC8F0D}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 345.45772961972148
+      SNAPOFFS 0
+      LENGTH 0.30570833333343
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C80CE9DA-45E0-4F17-8F9B-50F2E822168C}
+      IID 181
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 345.2843412449327
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8EB9AC4F-66DE-494E-9C99-D7911942FB48}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 348.84232481879457
+      SNAPOFFS 0
+      LENGTH 0.3641875
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {99F8BA7E-9FD3-4FC2-B58B-C6FF929C3141}
+      IID 193
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 348.88473707826608
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9555367D-F2B7-4B5B-A521-68C97CCD01D5}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 349.49611648546124
+      SNAPOFFS 0
+      LENGTH 0.53308333333331
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EB506C5B-D6C5-42FB-800B-C58556B144DC}
+      IID 195
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 349.53852874493276
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D956A5F3-8477-4175-8C59-0E17DE0AF9C9}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 350.42759565212788
+      SNAPOFFS 0
+      LENGTH 0.40975
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3AD6786F-21CB-4853-B4B4-C3D99E91F2AA}
+      IID 197
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 350.4700079115994
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BAB747D2-C73A-4C03-B925-DDABD69AF9C8}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 352.79353249175153
+      SNAPOFFS 0
+      LENGTH 0.301875
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {15DFADBD-6CEE-4C16-812C-60728C7B62B0}
+      IID 203
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 352.84196624493273
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {39E027D5-6502-44D1-B760-65E380D67C9D}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 353.56084499175154
+      SNAPOFFS 0
+      LENGTH 0.31045833333332
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {14E856BE-A0D4-498F-AF07-6646A6B56B41}
+      IID 205
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 353.60927874493274
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4379F1D3-C436-40A3-985A-878C4BEEC706}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 360.14250732865526
+      SNAPOFFS 0
+      LENGTH 0.4096875
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AA9C5968-A3F4-4066-99E0-DD3C437379C5}
+      IID 223
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 360.22432041159925
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {37CD9FE0-00D8-489D-8CED-74C6C5C183BA}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 361.73821999175146
+      SNAPOFFS 0
+      LENGTH 0.42325
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C9093CD4-C58F-478C-8D95-123B52DA1B74}
+      IID 227
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 361.78665374493266
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6C4DF5F9-FD8B-42A5-A65C-988C1344C1B9}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 362.59711582508481
+      SNAPOFFS 0
+      LENGTH 0.3380416666667
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9C39B82E-2D70-4510-B6FD-62B828001080}
+      IID 229
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 362.64554957826601
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {355D6CD1-A888-4D4D-AC81-B3E59F4FEC89}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 363.1100324917515
+      SNAPOFFS 0
+      LENGTH 0.5795
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BC59F965-C1C1-4BE1-80BE-70664D362B77}
+      IID 231
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 363.1584662449327
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {091F634B-B34A-4689-BB70-3675ABB1784E}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 363.88146999175154
+      SNAPOFFS 0
+      LENGTH 0.53683333333339
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F92998DA-E621-4941-AB3E-4686624A78F9}
+      IID 233
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 363.92990374493274
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6689D996-D221-4554-9F85-E8B9AF42EFB7}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 364.82261582508494
+      SNAPOFFS 0
+      LENGTH 0.37375
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {64437DC0-A72D-4C73-8BB0-F5797C4BFEBC}
+      IID 235
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 364.87104957826614
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {870F312B-F15C-4F8F-94CB-DBFF80B32F2E}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 365.32801165841829
+      SNAPOFFS 0
+      LENGTH 0.57675
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {53CD7D21-A45C-41EA-853D-AF894B52E1AC}
+      IID 237
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 365.37644541159949
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {551FF7C1-2FE9-47B7-BAB1-1CB091BAAF92}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 366.25257415841838
+      SNAPOFFS 0
+      LENGTH 0.32452083333334
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1099A6A9-4C6A-42B6-8C35-CC5BD3C8A7AA}
+      IID 239
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 366.30100791159958
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4925B29B-43E7-4127-9949-3E2DECB0F9EF}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 367.01657415841839
+      SNAPOFFS 0
+      LENGTH 0.33245833333336
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7C876A88-394D-43DE-ACEC-5038DB11FB34}
+      IID 241
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 367.06500791159959
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {005A4902-AC0C-4984-B7D9-DE8ECC580343}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 367.84605332508511
+      SNAPOFFS 0
+      LENGTH 0.3115625
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {36DC064C-D686-4DB7-8742-7F09BA5A2BB4}
+      IID 243
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 367.89448707826631
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {610A882E-1824-4173-9ECE-BB2A2D7FF8B7}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 368.54357415841849
+      SNAPOFFS 0
+      LENGTH 0.2965625
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D095516B-B2C7-4D41-8F20-03EFF6F19357}
+      IID 245
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 368.59200791159969
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {10C2FAAF-3BD9-4ADD-8C9A-9FFFC1BF3618}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 369.34540749175187
+      SNAPOFFS 0
+      LENGTH 0.35027083333335
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {69B5EEEE-1B41-4434-A2FC-297C2C08BC91}
+      IID 247
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 369.39384124493307
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {096D7721-9096-4676-BE3B-E60221FCCF3F}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 370.05542832508524
+      SNAPOFFS 0
+      LENGTH 0.440125
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FF1963B5-2886-47DC-A087-6475672E9779}
+      IID 249
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 370.10386207826645
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {61E9DF53-80A8-4DD3-8B4F-939B62122000}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 373.6957559301573
+      SNAPOFFS 0
+      LENGTH 8.84968260252606
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5B748F4C-4362-4C46-BCF1-D87C24A5B2A5}
+      IID 2
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 373.61586009682401
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C7EC5D5F-4223-4874-8C2B-6F7FABF8AAFA}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 383.12612622589307
+      SNAPOFFS 0
+      LENGTH 0.92910030913549
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BFE52972-DC22-4FA2-A953-DCB4137E56A2}
+      IID 2
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 383.04623039255978
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {501FB84E-EE9D-4053-8F32-86DD7FC5764C}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 384.51977668959637
+      SNAPOFFS 0
+      LENGTH 1.03362409391326
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DE74381D-DB9E-49BB-AB1B-D450A5770FE0}
+      IID 2
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 384.43988085626307
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3B3D29AD-E72C-48C5-B154-89E8D8A6DB7B}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 387.7403937465827
+      SNAPOFFS 0
+      LENGTH 2.2414544957893
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 1.1 0 1.1417551152955 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AB8EE874-E44F-4365-85BA-D8481503C509}
+      IID 2
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 386.0193513817934
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CE6CC109-16A9-4043-B70E-50293E47000A}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 388.8400931270765
+      SNAPOFFS 0
+      LENGTH 5.38839664539495
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1.1 0 1.1417551152955 0 1 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {84AD9E25-9F20-4C6F-9783-F584A6988B2C}
+      IID 2
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 388.7601972937432
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F98FEC9D-FBE9-4AB5-BE8B-FC629152209A}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 394.97215516737089
+      SNAPOFFS 0
+      LENGTH 1.91853811710729
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {85FB8DD2-95EE-4100-9FD7-3F0DB8A16647}
+      IID 2
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 394.89225933403759
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2EEFB978-7BD0-4354-8C3D-38313A11E621}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 397.23723623732729
+      SNAPOFFS 0
+      LENGTH 2.22777612545855
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {49D96D34-1915-4967-B618-0FB2FC085868}
+      IID 2
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 397.157340403994
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {913DEF4A-8413-411F-BCB1-ECD0E988FB64}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 399.72904508876616
+      SNAPOFFS 0
+      LENGTH 0.89936147287028
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FA7790DB-916B-4470-97D0-BD0EB737BD33}
+      IID 2
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 399.64914925543286
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5F4CCF95-EF8D-4A30-BE3E-949E40A6179A}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 401.0492087186675
+      SNAPOFFS 0
+      LENGTH 10.74717491820905
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9457C262-C24B-4ED1-B35F-A6628B300808}
+      IID 2
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 400.9693128853342
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F77CC4FB-59B1-4AD7-AE56-72A3B267BBEA}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 412.16138907571377
+      SNAPOFFS 0
+      LENGTH 14.85767145190209
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E69A3416-1BD0-4977-8C13-198C64051D6C}
+      IID 2
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 412.08149324238047
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A19CF886-7F61-4A22-B527-9F2F99F319EA}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 427.92588902172076
+      SNAPOFFS 0
+      LENGTH 20.24170745770363
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B0CA07C3-1F5A-4ACE-A9E2-FC21DCA4364C}
+      IID 2
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 427.84599318838747
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0CE31418-90E6-40A1-BB68-B617D0999128}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 451.53581660038554
+      SNAPOFFS 0
+      LENGTH 11.85354388722857
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {184243D7-E3C6-4E4C-92AC-68ABC600FD26}
+      IID 2
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 451.45592076705225
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C1D2144A-8E9B-466A-8285-C49EFDFDAF43}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 465.65643172287645
+      SNAPOFFS 0
+      LENGTH 319.54967244378992
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0.001 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4CEC57FB-92BA-4EB6-B14E-19089391706B}
+      IID 2
+      NAME "Card Recording.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 465.57653588954315
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E64EC37A-1E4E-48D6-B3DD-A6C4BBD344AF}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Audio\Card Recording.wav"
+      >
+    >
+    <ITEM
+      POSITION 815.86833333333334
+      SNAPOFFS 0
+      LENGTH 210.11475090127055
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0.001 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3EEFCDF9-E087-42C2-8E78-540DC6A4B385}
+      IID 427
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {10285B55-0D71-48D2-B2D4-A3E024CEA8FA}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1026.6372748687234
+      SNAPOFFS 0
+      LENGTH 10.5554542856562
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ACD65F70-E135-4CBB-8AC7-6AFCB5EACE99}
+      IID 427
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 210.76894153539001
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7D5A6B6A-9DF4-4ED6-9A0D-EDBB99901DC8}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1038.6602378741609
+      SNAPOFFS 0
+      LENGTH 19.27210246459845
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BFC5E1BC-F47D-482E-A384-1386D4337B8D}
+      IID 427
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 222.79190454082755
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3807227F-3CDF-4479-A73C-3E929F3B9217}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1058.5334884890312
+      SNAPOFFS 0
+      LENGTH 1.06084967695028
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FE5A9514-2066-477A-9C56-10C848F68053}
+      IID 427
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 242.6651551556979
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F031037E-B140-478F-A06A-D4EAF71FCDEB}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1060.1247630044568
+      SNAPOFFS 0
+      LENGTH 86.82145695188183
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DE20A81E-AE7A-4589-BE78-D2F5A22C3CCC}
+      IID 427
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 244.25642967112344
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D633DEDF-201A-41A5-B8E9-547FA27A6E70}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1147.7161325355085
+      SNAPOFFS 0
+      LENGTH 4.71881903362214
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {753D66E7-2071-4142-9EDA-3F0F4B9ACCA1}
+      IID 427
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 331.84779920217511
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {16F20F1C-7A05-4A51-B337-3ACDABD1413D}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1153.0558488103966
+      SNAPOFFS 0
+      LENGTH 3.11963451467477
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2D56A5E4-2D66-4BD6-84F5-8096BA8B9C1D}
+      IID 427
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 337.18751547706324
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {79C4C8F4-8988-47C2-919C-6B435E470159}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1156.8060681476438
+      SNAPOFFS 0
+      LENGTH 0.99343558602573
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9F9646E3-0397-4689-89C9-36AC1730EAF5}
+      IID 427
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 340.93773481431049
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B91B8B59-41C1-449C-8FB1-B2D3EA7B6D44}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1158.5197445335382
+      SNAPOFFS 0
+      LENGTH 0.94376380672429
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6D69C42B-9CA1-485E-87A3-3A35AF09594A}
+      IID 427
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 342.65141120020485
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4186263D-5485-4B80-8C1D-5D6156EAD449}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1160.2582568090832
+      SNAPOFFS 0
+      LENGTH 111.98668628544306
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FFAFCB70-A4F4-4C82-ACE5-C44C4D66572C}
+      IID 427
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 344.38992347574981
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A153019F-5F78-4C31-B7B4-95F6E8A8B4EA}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1272.8846083273631
+      SNAPOFFS 0
+      LENGTH 1.18092042985245
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FD291B39-1028-4F80-B081-ADC3F71BC5C7}
+      IID 427
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 457.0162749940298
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CE00E524-2C23-4897-BB72-306A7A7828FC}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1275.0004240975156
+      SNAPOFFS 0
+      LENGTH 5.16652688060503
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AE472EDE-D29A-45A0-9B1D-324A42FFCCDA}
+      IID 427
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 459.13209076418229
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99E3FAAA-3F92-47B9-8B4A-54997F3313CE}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1281.2986663900629
+      SNAPOFFS 0
+      LENGTH 0.93489534029982
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {342FD947-FCF9-4F0C-9CBA-7F39D220FED5}
+      IID 427
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 465.43033305672952
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B7FB26D5-80C5-4E2F-88C1-4D477A827578}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1283.3160721243942
+      SNAPOFFS 0
+      LENGTH 3.78878637911043
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {381DDF67-F7AD-4812-B28E-B4933AA17451}
+      IID 427
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 467.44773879106083
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ECCCA22C-B1A4-440C-AE20-12DFB5BFC9D5}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1287.9905488258942
+      SNAPOFFS 0
+      LENGTH 50.13991325082429
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EC2D6496-62C7-4765-B318-9624F6FE3A47}
+      IID 427
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 472.12221549256083
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6A3468A8-C112-4C5F-BEBB-BF3203C25793}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1339.7050226498552
+      SNAPOFFS 0
+      LENGTH 4.33004157612618
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {68976915-8E0C-4D94-88B4-3A34A35D2D71}
+      IID 427
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 523.83668931652187
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EF888EBB-566C-4869-B782-5E40E50692EC}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1345.7080348349393
+      SNAPOFFS 0
+      LENGTH 1.42694551940531
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5CA4C88A-F42F-410A-8596-CAE9859A566D}
+      IID 427
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 529.83970150160599
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A490C9FE-3AC4-4EC8-942C-40647B784B16}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1353.4824276648023
+      SNAPOFFS 0
+      LENGTH 1.91899569851034
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {69EB6C69-17DA-4056-B0E7-3EA71FC0260E}
+      IID 427
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 537.614094331469
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2D184FA5-53AF-4DB5-8EB8-25BF35AA94AE}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1356.0915093042436
+      SNAPOFFS 0
+      LENGTH 1.96698502623735
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C6DB6528-3B0C-4DF7-867F-130A2B3B2928}
+      IID 427
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 540.22317597091023
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6CBAB544-F59C-4160-AB89-C1861CC46C4D}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1359.7806699573493
+      SNAPOFFS 0
+      LENGTH 219.47520504265071
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0.001 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E2848A72-B8E0-4860-98FA-770C900CF8C4}
+      IID 427
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 543.91233662401601
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {27D59588-61A7-4A6A-9CE0-4128FB09EFAC}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+  >
+  <TRACK {BFC03393-7124-4C4D-9A30-A96405E7F550}
+    NAME sfx_tarot_flip
+    PEAKCOL 29383963
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    WIDTH 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 1
+    REC 0 4128 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {BFC03393-7124-4C4D-9A30-A96405E7F550}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT -3387 81 981 624
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST3: kHs Reverb (Kilohearts)" "kHs Reverb.vst3" 0 "" 1304368705{57C6C07F0065421600BF482A003AFA7A} ""
+        QRa/Te5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAawIAAAEAAAD//wAA
+        WwIAAAEAAAABAAAAUwIAAFBLAwQUAAgICABpfQddAAAAAAAAAAAAAAAACgAAAHN0YXRlLmpzb27t20lu2zAUBuC1dIpA6DIIbCeSi+6666YnKAqDFp8VIhwEDnbSIHcv
+        B9FDmyP8GwP8+d7jJ3rN97bpFHnWfbt7b5umY8E/GxtX3XdJr0xzsnc/mJqZdUYJpru2+biPPUeyThhd2w7GKuZT27q7T8EswyR0DlZPfckcf0nB5qkOmS058nXGzPxz
+        2i/Fmim6rIgLTzytvQ1U+5XhJGs7MSvfUsXqYVMPFH+oJP1q87jut0PJefwgoacFUyIa2dI9bB/Xm+3Xmh9YkN4tpzSdFCNpRztpxvw1ByYd5dpI0Gwvr5gl/eLf5sw4
+        zyq5ElqoKOT/jgl5/GkXr2cU6ZbjahLj7mTsC7Mm6P864t9D2u+muDnnj4g3lK+o6SZp9rHy7NdB/TQ8SObjYFeKF89N/CtlTe6Je57ZqfxTeWqKnAl2pJuIqYjzVzNj
+        NgZ7pNvo02u6vqiLpMtbywHAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAA8ykm/f7OZZei+r6u
+        rQ/uToKXd4zLS0glXvO5D+t+GIZ+uzw4PA+wdCS7T08a24/2L1BLBwjtcBONzQEAAI85AABQSwECAAAUAAgICABpfQdd7XATjc0BAACPOQAACgAAAAAAAAAAAAAAAAAA
+        AAAAc3RhdGUuanNvblBLBQYAAAAAAQABADgAAAAFAgAAAAAAAAAAAAAAAA==
+        AAAAAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {EAB6B338-C363-4A1C-AAA9-A65A8A9E7BDF}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.32894851352346
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C990D6B0-1139-43EE-B1D3-DECBF4FAD98E}
+      IID 687
+      NAME "Card Recording_01"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E53EFF05-970E-4642-A5C3-DBC283E6C57C}
+      <SOURCE EMPTY
+      >
+    >
+    <ITEM
+      POSITION 0.55737495608628
+      SNAPOFFS 0
+      LENGTH 0.29081581806998
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9E6452D4-15C9-40C3-9D13-61AE7262BBCE}
+      IID 692
+      NAME "Card Recording_01"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F0E2E9C3-91B7-43CF-88D7-C6AA63509F71}
+      <SOURCE EMPTY
+      >
+    >
+    <ITEM
+      POSITION 1.05737495608628
+      SNAPOFFS 0
+      LENGTH 0.34243776734245
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {685F2D0C-096B-45B3-A07D-60824B251A29}
+      IID 689
+      NAME "Card Recording_03"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {637024EB-B5B5-40C5-9E93-AA5C134337DB}
+      <SOURCE EMPTY
+      >
+    >
+    <ITEM
+      POSITION 1.55737495608628
+      SNAPOFFS 0
+      LENGTH 0.3389588006891
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {81F6135A-8CE2-4FA9-94B5-D1EC5961B5CB}
+      IID 690
+      NAME "Card Recording_04"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5110E40D-8480-48E4-8FC2-4953253B017F}
+      <SOURCE EMPTY
+      >
+    >
+    <ITEM
+      POSITION 2.05737495608628
+      SNAPOFFS 0
+      LENGTH 0.30647217567337
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7F1EF9E0-B447-4FFC-B0C4-5E96F916FD1B}
+      IID 691
+      NAME "Card Recording_05"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E11D3BAE-B475-43A4-A145-14CF6D7E1016}
+      <SOURCE EMPTY
+      >
+    >
+    <ITEM
+      POSITION 22.60289226229092
+      SNAPOFFS 0
+      LENGTH 0.1996680678633
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {43E5D378-645F-43AE-BDA9-CB200490EDA3}
+      IID 665
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 523.3131157008645
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C6D5BCDB-896E-416D-8A47-917A1D7F791D}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 23.83802298700627
+      SNAPOFFS 0
+      LENGTH 0.31367104341859
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DB22CFE9-D229-4537-976C-0CC4C2FBF220}
+      IID 669
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 529.24589405568076
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FFE7DC5F-D754-4262-95B8-1DA09742F30A}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 26.20241608860423
+      SNAPOFFS 0
+      LENGTH 0.25739257243432
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6F05181C-85C6-49B2-8E36-1BACD19D80D3}
+      IID 673
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 532.18632590356174
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {676DF68A-E0D5-4AC8-8B4C-8493D24D9E9E}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 27.19052066837651
+      SNAPOFFS 0
+      LENGTH 0.16341813700531
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {90A8FB78-1C36-46EA-8299-65A736731808}
+      IID 677
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 534.73943000319457
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {90061BB9-B8F6-4023-937A-0DFAFB77EABA}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 30.03132133522182
+      SNAPOFFS 0
+      LENGTH 0.21197916666667
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FC24C52C-8AEA-48B4-AEEE-D8F49F260B58}
+      IID 685
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 543.36127908117783
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {73BCC7AD-1966-4B8D-B35E-EF9E89E73053}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 31.72521490054573
+      SNAPOFFS 0
+      LENGTH 0.32006719609411
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {645D0620-9794-4C11-BBA9-475A81D94D41}
+      IID 681
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 536.90777626298893
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ADE2DCA9-A114-44F3-865E-31DD055E6E06}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1146.9462199563386
+      SNAPOFFS 0
+      LENGTH 0.76991257916984
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {50DD015E-0943-4768-B40D-0F997A711C6A}
+      IID 427
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 331.07788662300527
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {36AED089-F94D-48B9-9B84-465934A6BC06}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1152.4349515691306
+      SNAPOFFS 0
+      LENGTH 0.62089724126599
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {53B36589-BD25-47EF-A53F-E705DCB71479}
+      IID 427
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 336.56661823579725
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {21AB42C1-EA5D-4371-AFE5-4BAEEF1E0F55}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1156.1754833250714
+      SNAPOFFS 0
+      LENGTH 0.63058482257247
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {65081640-6CA6-4B5A-B816-91789C67DF5A}
+      IID 427
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 340.30714999173802
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DBD1B9DD-FF69-4017-98FD-EBF2DE18FA89}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1157.7995037336696
+      SNAPOFFS 0
+      LENGTH 0.72024079986863
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DF19C6EA-EB63-4F38-8387-CCFFEFDC54E9}
+      IID 427
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 341.93117040033621
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {66C22BB8-4AD2-4B5D-98C3-9DF031C57B79}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1159.4635083402625
+      SNAPOFFS 0
+      LENGTH 0.79474846882067
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D3834CA2-89CC-493C-BD56-3A518A3F9645}
+      IID 427
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 343.59517500692914
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {80B09EDE-5BC2-4672-95BB-D05AE7EB3BE5}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1272.2449430945262
+      SNAPOFFS 0
+      LENGTH 0.63966523283693
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {771B056A-B1AD-4546-954C-1074CA29AD24}
+      IID 427
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 456.37660976119287
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99C492CF-12F0-4D10-A7F8-88880B1E17FC}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1274.0655287572156
+      SNAPOFFS 0
+      LENGTH 0.93489534030005
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D575B7A7-08AE-4DC6-96DD-302714BD42EF}
+      IID 427
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 458.19719542388225
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2A481431-1AA8-46D6-85B3-794D477019F3}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1280.1669509781207
+      SNAPOFFS 0
+      LENGTH 1.1317154119422
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DC32732C-38A6-4448-BB3B-538C5CC6555C}
+      IID 427
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 464.29861764478733
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B51A3CAB-0300-477E-BC14-64E2B20D8B03}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1282.2335617303627
+      SNAPOFFS 0
+      LENGTH 1.08251039403149
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D7EE09FB-1254-42A6-AF14-6D5FE450995D}
+      IID 427
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 466.36522839702934
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {97026ADF-8F3C-496F-B581-99E6D2BEB95E}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1287.1048585035046
+      SNAPOFFS 0
+      LENGTH 0.88569032238956
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {113591DE-BA49-4442-AB5F-0937B3F89401}
+      IID 427
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 471.23652517017126
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0FA71416-C679-40FA-8C85-D381F54D9353}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+  >
+  <TRACK {3C84DD04-4C87-41A9-9954-2979477E2843}
+    NAME ""
+    PEAKCOL 25441265
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 4128 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3C84DD04-4C87-41A9-9954-2979477E2843}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT -3419 49 479 588
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST3: kHs Filter (Kilohearts)" "kHs Filter.vst3" 0 "" 867354474{793F55CB005049A600BF8DAB00B4EFA0} ""
+        aseyM+5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAUgIAAAEAAAD//wAA
+        QgIAAAEAAAABAAAAOgIAAFBLAwQUAAgICABpfQddAAAAAAAAAAAAAAAACgAAAHN0YXRlLmpzb27t2zlOxEAQBdDYPgWyCBEaYABBRkbCCRCyCrvsadGL6YVV3J1e7FkE
+        R/jJSP27qvxcE/u7rhrFnprbo++6qhoKfmNsPDV3kj9I92yP7klNZJ1RgnRTVz8nseeNrRNGL22DsYp8ajtrTlIwyTAKnYPV5UXJXP+SgvP1MmSy7NgvMybym3RfijUp
+        3p24F577dPY28NKvTM9yafefU27YiHHTTuTc/FBpSj7DuuDNMGTHzc3per26LPlrilan16vrch6p8K/KseeBgvRuflrVSNGxdtxK0+W3Gkg6zrVRq+lZ7nFLerwIt7NK
+        roQWSnyV+v0xIY9/b+OaOpG2HU+j6Np3Y1/ImqD/dMS/ibVvx3g55feJm8qriu8jzXOs3Pp1UA+mD5J8HOxK8ew5iB9TVuWetGSyY/nH8tQUORNsxwcRqYjzezPz3u0b
+        H0b/rml/UTtJk6/mBwADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAPMv5j0+5TLdkXL93X18sHd
+        9mYQ0rNN3yzWP/UvUEsHCC+l9lC0AQAAcDkAAFBLAQIAABQACAgIAGl9B10vpfZQtAEAAHA5AAAKAAAAAAAAAAAAAAAAAAAAAABzdGF0ZS5qc29uUEsFBgAAAAABAAEA
+        OAAAAOwBAAAAAAAAAAAAAAAA
+        AAAAAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {2B44B3DF-E43A-4F0F-86FC-E940B328C46B}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST3: ERA 6 Mouth De-Clicker (accusonus)" ERA6_MouthDeClicker.vst3 0 "" 1397881{ABCDEF019182FAEB416363754D644336} ""
+        eVQVAO5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAnQIAAAEAAAD//wAA
+        jQIAAAEAAABWQzIhSAIAADw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9IlVURi04Ij8+IDxFUkFTYXZlPjxjdXJyZW50U3RhdGU+PEVSQVN0YXRlVHJlZSBjdXJy
+        ZW50U3RhdGU9IjAiIGN1cnJlbnRVSVNjYWxlPSIxIiBsaXN0ZW5Ub0RpZmY9IjAiPjxQQVJBTSBpZD0ibW9kZSIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0ib25vZmYi
+        IHZhbHVlPSIxLjAiLz48UEFSQU0gaWQ9Im91dHB1dEdhaW4iIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9InByb2Nlc3NpbmdBbW91bnQiIHZhbHVlPSIwLjQwMDAwMDAw
+        NTk2MDQ2NDUiLz48L0VSQVN0YXRlVHJlZT48L2N1cnJlbnRTdGF0ZT48b3RoZXJTdGF0ZT48RVJBU3RhdGVUcmVlIGN1cnJlbnRTdGF0ZT0iMCIgY3VycmVudFVJU2Nh
+        bGU9IjEiIGxpc3RlblRvRGlmZj0iMCI+PFBBUkFNIGlkPSJtb2RlIiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJvbm9mZiIgdmFsdWU9IjEuMCIvPjxQQVJBTSBpZD0i
+        b3V0cHV0R2FpbiIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0icHJvY2Vzc2luZ0Ftb3VudCIgdmFsdWU9IjAuNDAwMDAwMDA1OTYwNDY0NSIvPjwvRVJBU3RhdGVUcmVl
+        Pjwvb3RoZXJTdGF0ZT48L0VSQVNhdmU+AAAAAAAAAAAASlVDRVByaXZhdGVEYXRhAAEBQnlwYXNzAAEBAwAdAAAAAAAAAEpVQ0VQcml2YXRlRGF0YQAAAAAAAAAA
+        AAAAAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {45E5E1A6-EE90-4974-8622-E069B9730D23}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.11238168735481
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0.01109917408047 0 0 0 0 0
+      FADEOUT 1.1 0 0.05500673126853 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7E2B1556-F462-4DD8-820E-F5C46ED16B57}
+      IID 663
+      NAME "Card Recording-01.wav"
+      VOLPAN 0.776247 0 5.377231 -1
+      SOFFS 522.66776153419778
+      PLAYRATE 0.9999999991827 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {923C5C5F-8C37-46DE-AE21-FA846ED6D190}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.05737495608628
+      SNAPOFFS 0
+      LENGTH 0.18986475653946
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1.1 0 0.05500673126853 0 1 0 0
+      FADEOUT 0 0.02740385952639 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {98592B43-1038-4431-9DC3-B4084DA1F249}
+      IID 667
+      NAME "Card Recording-01.wav"
+      VOLPAN 0.776247 0 6.95695 -1
+      SOFFS 528.47291488901408
+      PLAYRATE 0.999999998707 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {67FC543C-064B-446B-97AD-225063782890}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.55737495608628
+      SNAPOFFS 0
+      LENGTH 0.20910701717226
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0.01109917408047 0 0 0 0 0
+      FADEOUT 0 0.02740385952639 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {63F401AB-8827-4272-8831-6AF57E15728B}
+      IID 671
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 3.747641 -1
+      SOFFS 531.41793007022841
+      PLAYRATE 0.99999999738588 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {53F9EA73-9C27-4697-88F7-EF61D7DE2EA4}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.05737495608628
+      SNAPOFFS 0
+      LENGTH 0.26072896644473
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0.01109917408047 0 0 0 0 0
+      FADEOUT 0 0.02740385952639 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A44F9AFB-6BB5-4F7B-9A9F-AEBB2C1C8A2A}
+      IID 675
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 4.722597 -1
+      SOFFS 533.89572186986652
+      PLAYRATE 1.00000000061866 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {39E618AD-BA2E-4590-889A-CAB32290CC7A}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.55737495608628
+      SNAPOFFS 0
+      LENGTH 0.25724999979138
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0.01109917408047 0 0 0 0 0
+      FADEOUT 0 0.02740385952639 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C971324A-1EC5-47E7-B40F-0E70F0E8D5AF}
+      IID 679
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 3.211767 -1
+      SOFFS 535.92190126298897
+      PLAYRATE 1.00000000081094 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3977A736-3903-48EB-AD03-A8802D01E901}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.05737495608628
+      SNAPOFFS 0
+      LENGTH 0.206940539915
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0.01109917408047 0 0 0 0 0
+      FADEOUT 0 0.02523084328933 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {81F70F0F-0B20-4FEB-A82C-8336D30FB303}
+      IID 683
+      NAME "Card Recording-01.wav"
+      VOLPAN 1 0 2.797595 -1
+      SOFFS 542.4947593373073
+      PLAYRATE 0.77668921622818 1 -1 -1 0 0.0025
+      CHANMODE 0
+      GUID {A0DC7B1E-0109-4BFF-82D1-0C5D1FE168D5}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Audio\Card Recording-01.wav"
+      >
+    >
+  >
+  <EXTENSIONS
+    <SWSAUTOCOLOR
+      {00000000-0000-0000-0000-000000000000} 0 "" "" ""
+      {BDEE7FA9-E5C6-4A6E-AE13-93FD84CB648B} 58743543 "" "" ""
+      {777354A5-825E-40B6-9952-3EA3C6250E35} 56341918 "" "" ""
+      {7E094DB6-5B8A-4975-96C9-DABD65707206} 61981122 "" "" ""
+      {BFC03393-7124-4C4D-9A30-A96405E7F550} 52125120 "" "" ""
+      {3C84DD04-4C87-41A9-9954-2979477E2843} 66139012 "" "" ""
+    >
+  >
+>
